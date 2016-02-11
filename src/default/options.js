@@ -28,7 +28,7 @@
   {
     "class": "tab_control",
     "settings": ["material_theme_tabs_separator"],
-    "layer3.texture": "Material Theme/assets/commons/tab_separator.png",
+    "layer3.texture": "Material Facebook Theme/assets/commons/tab_separator.png",
     "layer3.inner_margin": [1, 1],
     "layer3.opacity": 1.0,
   },
@@ -59,7 +59,7 @@
     "parents": [{ "class": "tree_row", "attributes": ["expanded", "hover"] }],
     "layer1.opacity": 0.0,
     "layer2.opacity": 0.0,
-    "layer3.texture": "Material Theme/assets/commons/folder--hover.png",
+    "layer3.texture": "Material Facebook Theme/assets/commons/folder--hover.png",
   },
 
     // Folder animation Lime
@@ -70,7 +70,7 @@
     "parents": [{ "class": "tree_row", "attributes": ["expanded", "hover"] }],
     "layer1.opacity": 0.0,
     "layer2.opacity": 0.0,
-    "layer3.texture": "Material Theme/assets/accent-lime/folder--hover.png",
+    "layer3.texture": "Material Facebook Theme/assets/accent-lime/folder--hover.png",
   },
 
     // Folder animation Purple
@@ -81,7 +81,7 @@
     "parents": [{ "class": "tree_row", "attributes": ["expanded", "hover"] }],
     "layer1.opacity": 0.0,
     "layer2.opacity": 0.0,
-    "layer3.texture": "Material Theme/assets/accent-purple/folder--hover.png",
+    "layer3.texture": "Material Facebook Theme/assets/accent-purple/folder--hover.png",
   },
 
     // Folder animation Red
@@ -92,7 +92,7 @@
     "parents": [{ "class": "tree_row", "attributes": ["expanded", "hover"] }],
     "layer1.opacity": 0.0,
     "layer2.opacity": 0.0,
-    "layer3.texture": "Material Theme/assets/accent-red/folder--hover.png",
+    "layer3.texture": "Material Facebook Theme/assets/accent-red/folder--hover.png",
   },
 
     // Folder animation Orange
@@ -103,7 +103,7 @@
     "parents": [{ "class": "tree_row", "attributes": ["expanded", "hover"] }],
     "layer1.opacity": 0.0,
     "layer2.opacity": 0.0,
-    "layer3.texture": "Material Theme/assets/accent-orange/folder--hover.png",
+    "layer3.texture": "Material Facebook Theme/assets/accent-orange/folder--hover.png",
   },
 
     // Folder animation Yellow
@@ -114,7 +114,7 @@
     "parents": [{ "class": "tree_row", "attributes": ["expanded", "hover"] }],
     "layer1.opacity": 0.0,
     "layer2.opacity": 0.0,
-    "layer3.texture": "Material Theme/assets/accent-yellow/folder--hover.png",
+    "layer3.texture": "Material Facebook Theme/assets/accent-yellow/folder--hover.png",
   },
     // Small status bar
 
@@ -137,7 +137,7 @@
   {
     "class": "panel_control",
     "settings": ["material_theme_panel_separator"],
-    "layer1.texture": "Material Theme/assets/commons/panel_separator.png",
+    "layer1.texture": "Material Facebook Theme/assets/commons/panel_separator.png",
     "layer1.opacity": 0.2,
     "layer1.inner_margin": [2, 2, 2, 2],
   },

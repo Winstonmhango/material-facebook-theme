@@ -6,7 +6,7 @@
   {
     "class": "tabset_control",
     "layer0.opacity": 1.0,
-    "layer0.tint": [38, 50, 56],
+    "layer0.tint": [37, 43, 57],
     "tint_index": 1,
     "layer0.inner_margin": [2, 6],
     "layer0.opacity": 1.0,
@@ -28,12 +28,12 @@
   {
     "class": "tab_control",
 
-    "layer0.tint": [38, 50, 56],
+    "layer0.tint": [37, 43, 57],
     "layer0.inner_margin": [24, 0],
     "layer0.opacity": 1.0,
     "tint_index": 0,
 
-    "layer1.texture": "Material Theme/assets/default/tab_current.png",
+    "layer1.texture": "Material Facebook Theme/assets/default/tab_current.png",
     "layer1.inner_margin": [0, 0],
     "layer1.opacity": 0.0,
 
@@ -46,19 +46,19 @@
     "layer3.texture": {
             "keyframes":
             [
-              "Material Theme/assets/default/tab_animation1.png",
-              "Material Theme/assets/default/tab_animation2.png",
-              "Material Theme/assets/default/tab_animation3.png",
-              "Material Theme/assets/default/tab_animation4.png",
-              "Material Theme/assets/default/tab_animation5.png",
-              "Material Theme/assets/default/tab_animation6.png",
-              "Material Theme/assets/default/tab_animation7.png",
-              "Material Theme/assets/default/tab_animation8.png",
-              "Material Theme/assets/default/tab_animation9.png",
-              "Material Theme/assets/default/tab_animation10.png",
-              "Material Theme/assets/default/tab_animation11.png",
-              "Material Theme/assets/default/tab_animation12.png",
-              "Material Theme/assets/default/tab_animation13.png"
+              "Material Facebook Theme/assets/default/tab_animation1.png",
+              "Material Facebook Theme/assets/default/tab_animation2.png",
+              "Material Facebook Theme/assets/default/tab_animation3.png",
+              "Material Facebook Theme/assets/default/tab_animation4.png",
+              "Material Facebook Theme/assets/default/tab_animation5.png",
+              "Material Facebook Theme/assets/default/tab_animation6.png",
+              "Material Facebook Theme/assets/default/tab_animation7.png",
+              "Material Facebook Theme/assets/default/tab_animation8.png",
+              "Material Facebook Theme/assets/default/tab_animation9.png",
+              "Material Facebook Theme/assets/default/tab_animation10.png",
+              "Material Facebook Theme/assets/default/tab_animation11.png",
+              "Material Facebook Theme/assets/default/tab_animation12.png",
+              "Material Facebook Theme/assets/default/tab_animation13.png"
             ],
             "loop": false,
             "frame_time": 0.015,
@@ -130,20 +130,20 @@
     "content_margin": [0, 0],
 
      // Close Icon
-    "layer0.texture": "Material Theme/assets/default/close_icon.png",
+    "layer0.texture": "Material Facebook Theme/assets/default/close_icon.png",
     "layer0.opacity": 1,
     "layer0.inner_margin": 0,
 
     // Close Icon Hover
-    "layer1.texture": "Material Theme/assets/commons/close_icon--hover.png",
+    "layer1.texture": "Material Facebook Theme/assets/commons/close_icon--hover.png",
     "layer1.opacity": { "target": 0.0, "speed": 5.0, "interpolation": "smoothstep" },
 
      // Dirty Icon
-    "layer2.texture": "Material Theme/assets/default/dirty_icon.png",
+    "layer2.texture": "Material Facebook Theme/assets/default/dirty_icon.png",
     "layer2.inner_margin": 0,
 
     // Dirty Icon Hover
-    "layer3.texture": "Material Theme/assets/commons/dirty_icon--hover.png",
+    "layer3.texture": "Material Facebook Theme/assets/commons/dirty_icon--hover.png",
     "layer3.opacity": { "target": 0.0, "speed": 5.0, "interpolation": "smoothstep" }
   },
 
@@ -213,10 +213,10 @@
   {
     "class": "scroll_tabs_left_button",
     "content_margin": [14, 7],
-    "layer0.texture": "Material Theme/assets/default/arrow_left.png",
+    "layer0.texture": "Material Facebook Theme/assets/default/arrow_left.png",
     "layer0.opacity": 1.0,
     "layer0.inner_margin": 0,
-    "layer1.texture": "Material Theme/assets/commons/arrow_left--hover.png",
+    "layer1.texture": "Material Facebook Theme/assets/commons/arrow_left--hover.png",
     "layer1.opacity": { "target": 0.0, "speed": 8.0, "interpolation": "smoothstep" },
     "layer1.inner_margin": 0,
   },
@@ -230,10 +230,10 @@
   {
     "class": "scroll_tabs_right_button",
     "content_margin": [14, 7],
-    "layer0.texture": "Material Theme/assets/default/arrow_right.png",
+    "layer0.texture": "Material Facebook Theme/assets/default/arrow_right.png",
     "layer0.opacity": 1.0,
     "layer0.inner_margin": 0,
-    "layer1.texture": "Material Theme/assets/commons/arrow_right--hover.png",
+    "layer1.texture": "Material Facebook Theme/assets/commons/arrow_right--hover.png",
     "layer1.opacity": { "target": 0.0, "speed": 8.0, "interpolation": "smoothstep" },
     "layer1.inner_margin": 0,
   },
@@ -247,10 +247,10 @@
   {
     "class": "show_tabs_dropdown_button",
     "content_margin": [12, 12],
-    "layer0.texture": "Material Theme/assets/default/overflow_menu.png",
+    "layer0.texture": "Material Facebook Theme/assets/default/overflow_menu.png",
     "layer0.opacity": 1.0,
     "layer0.inner_margin": 0,
-    "layer1.texture": "Material Theme/assets/commons/overflow_menu--hover.png",
+    "layer1.texture": "Material Facebook Theme/assets/commons/overflow_menu--hover.png",
     "layer1.opacity": { "target": 0.0, "speed": 8.0, "interpolation": "smoothstep" },
     "layer1.inner_margin": 0,
   },

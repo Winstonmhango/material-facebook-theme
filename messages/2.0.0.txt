@@ -16,7 +16,7 @@ Happy 5K stars and 90K installations!! I love you all! ( except those who open i
 
 🏮 COLOR SCHEME️
 
-  ➼ Oldest color scheme will now be available under OLD folder ( Packages/Material Theme/schemes/OLD/Material-Theme-*.tmTheme )
+  ➼ Oldest color scheme will now be available under OLD folder ( Packages/Material Facebook Theme/schemes/OLD/Material-Theme-*.tmTheme )
   ➼ Sass & SCSS lang files removed to avoid issues with the main packages.
 
 🏮 CORE

@@ -28,12 +28,12 @@
     "class": "status_bar",
 
     // Layer 0 base
-    "layer0.tint": [38, 50, 56],
+    "layer0.tint": [37, 43, 57],
     "layer0.opacity": 1.0,
     "layer0.inner_margin": [2, 2],
 
     // Visible tint layer
-    "layer1.tint": [38, 50, 56],
+    "layer1.tint": [37, 43, 57],
     "layer1.opacity": 1.0,
     "layer1.inner_margin": [2, 2],
 
@@ -47,7 +47,7 @@
 
   {
     "class": "status_button",
-    "layer0.tint": [38, 50, 56],
+    "layer0.tint": [37, 43, 57],
     "layer0.opacity": 1.0,
     "layer0.draw_center": false,
     "layer0.inner_margin": [1, 0, 0, 0],
@@ -57,7 +57,7 @@
 
   {
     "class": "status_button",
-    "layer0.tint": [38, 50, 56],
+    "layer0.tint": [37, 43, 57],
     "layer0.opacity": 1.0,
     "layer0.draw_center": false,
     "layer0.inner_margin": [1, 0, 0, 0],
@@ -68,7 +68,7 @@
   // panel switcher
   {
     "class": "panel_button_control",
-    "layer0.texture": "Material Theme/assets/default/overflow_menu.png",
+    "layer0.texture": "Material Facebook Theme/assets/default/overflow_menu.png",
     "layer0.opacity": 1.0,
     "content_margin": [10, 10]
   },
@@ -76,5 +76,5 @@
   {
     "class": "panel_button_control",
     "attributes": ["hover"],
-    "layer0.texture": "Material Theme/assets/commons/overflow_menu--hover.png",
+    "layer0.texture": "Material Facebook Theme/assets/commons/overflow_menu--hover.png",
   },

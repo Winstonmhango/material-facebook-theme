@@ -17,13 +17,13 @@
     "class": "button_control",
     "content_margin": [6, 12, 6, 12],
     "min_size": [75, 0],
-    "layer0.tint": [38, 50, 56],
+    "layer0.tint": [37, 43, 57],
     "layer0.opacity": 0.0,
     "layer0.inner_margin": [6, 6],
-    "layer1.texture": "Material Theme/assets/commons/full_button_indented.png",
+    "layer1.texture": "Material Facebook Theme/assets/commons/full_button_indented.png",
     "layer1.opacity": 0.0,
     "layer1.inner_margin": [6, 6],
-    "layer2.texture": "Material Theme/assets/default/blue_highlight.png",
+    "layer2.texture": "Material Facebook Theme/assets/default/blue_highlight.png",
     "layer2.opacity": { "target": 0.0, "speed": 5.0, "interpolation": "smoothstep" },
     "layer2.inner_margin": [6, 6]
   },
@@ -47,7 +47,7 @@
   // Small Icon Buttons
   {
     "class": "icon_button_control",
-    "layer0.tint": [38, 50, 56],
+    "layer0.tint": [37, 43, 57],
     "layer0.inner_margin": [6, 6],
     "layer0.opacity": 0.0,
     "layer2.tint": [255, 255, 255],
@@ -62,9 +62,9 @@
     // Regex Icon
   {
     "class": "icon_regex",
-    "layer0.texture": "Material Theme/assets/commons/find_regex--hover.png",
+    "layer0.texture": "Material Facebook Theme/assets/commons/find_regex--hover.png",
     "layer0.opacity": { "target": 0.0, "speed": 6.0, "interpolation": "smoothstep" },
-    "layer1.texture": "Material Theme/assets/default/find_regex.png",
+    "layer1.texture": "Material Facebook Theme/assets/default/find_regex.png",
     "layer1.opacity": { "target": 1.0, "speed": 6.0, "interpolation": "smoothstep" },
     "content_margin": [12, 12]
   },
@@ -80,9 +80,9 @@
 
   {
     "class": "icon_case",
-    "layer0.texture": "Material Theme/assets/commons/find_case--hover.png",
+    "layer0.texture": "Material Facebook Theme/assets/commons/find_case--hover.png",
     "layer0.opacity": { "target": 0.0, "speed": 6.0, "interpolation": "smoothstep" },
-    "layer1.texture": "Material Theme/assets/default/find_case.png",
+    "layer1.texture": "Material Facebook Theme/assets/default/find_case.png",
     "layer1.opacity": { "target": 1.0, "speed": 6.0, "interpolation": "smoothstep" },
     "content_margin": [12, 12]
   },
@@ -98,9 +98,9 @@
 
   {
     "class": "icon_whole_word",
-    "layer0.texture": "Material Theme/assets/commons/find_word--hover.png",
+    "layer0.texture": "Material Facebook Theme/assets/commons/find_word--hover.png",
     "layer0.opacity": { "target": 0.0, "speed": 6.0, "interpolation": "smoothstep" },
-    "layer1.texture": "Material Theme/assets/default/find_word.png",
+    "layer1.texture": "Material Facebook Theme/assets/default/find_word.png",
     "layer1.opacity": { "target": 1.0, "speed": 6.0, "interpolation": "smoothstep" },
     "content_margin": [12, 12]
   },
@@ -117,9 +117,9 @@
 
   {
     "class": "icon_wrap",
-    "layer0.texture": "Material Theme/assets/commons/find_wrap--hover.png",
+    "layer0.texture": "Material Facebook Theme/assets/commons/find_wrap--hover.png",
     "layer0.opacity": { "target": 0.0, "speed": 6.0, "interpolation": "smoothstep" },
-    "layer1.texture": "Material Theme/assets/default/find_wrap.png",
+    "layer1.texture": "Material Facebook Theme/assets/default/find_wrap.png",
     "layer1.opacity": { "target": 1.0, "speed": 6.0, "interpolation": "smoothstep" },
     "content_margin": [12, 12]
   },
@@ -135,9 +135,9 @@
 
   {
     "class": "icon_in_selection",
-    "layer0.texture": "Material Theme/assets/commons/find_inselection--hover.png",
+    "layer0.texture": "Material Facebook Theme/assets/commons/find_inselection--hover.png",
     "layer0.opacity": { "target": 0.0, "speed": 6.0, "interpolation": "smoothstep" },
-    "layer1.texture": "Material Theme/assets/default/find_inselection.png",
+    "layer1.texture": "Material Facebook Theme/assets/default/find_inselection.png",
     "layer1.opacity": { "target": 1.0, "speed": 6.0, "interpolation": "smoothstep" },
     "content_margin": [12,12]
   },
@@ -154,9 +154,9 @@
 
   {
     "class": "icon_highlight",
-    "layer0.texture": "Material Theme/assets/commons/find_highlight--hover.png",
+    "layer0.texture": "Material Facebook Theme/assets/commons/find_highlight--hover.png",
     "layer0.opacity": { "target": 0.0, "speed": 6.0, "interpolation": "smoothstep" },
-    "layer1.texture": "Material Theme/assets/default/find_highlight.png",
+    "layer1.texture": "Material Facebook Theme/assets/default/find_highlight.png",
     "layer1.opacity": { "target": 1.0, "speed": 6.0, "interpolation": "smoothstep" },
     "content_margin": [12, 12]
   },
@@ -172,9 +172,9 @@
 
   {
     "class": "icon_preserve_case",
-    "layer0.texture": "Material Theme/assets/commons/replace_preserve_case--hover.png",
+    "layer0.texture": "Material Facebook Theme/assets/commons/replace_preserve_case--hover.png",
     "layer0.opacity": { "target": 0.0, "speed": 6.0, "interpolation": "smoothstep" },
-    "layer1.texture": "Material Theme/assets/default/replace_preserve_case.png",
+    "layer1.texture": "Material Facebook Theme/assets/default/replace_preserve_case.png",
     "layer1.opacity": { "target": 1.0, "speed": 6.0, "interpolation": "smoothstep" },
     "content_margin": [12, 12]
   },
@@ -190,9 +190,9 @@
 
   {
     "class": "icon_context",
-    "layer0.texture": "Material Theme/assets/commons/find_context--hover.png",
+    "layer0.texture": "Material Facebook Theme/assets/commons/find_context--hover.png",
     "layer0.opacity": { "target": 0.0, "speed": 6.0, "interpolation": "smoothstep" },
-    "layer1.texture": "Material Theme/assets/default/find_context.png",
+    "layer1.texture": "Material Facebook Theme/assets/default/find_context.png",
     "layer1.opacity": { "target": 1.0, "speed": 6.0, "interpolation": "smoothstep" },
     "content_margin": [12, 12]
   },
@@ -209,9 +209,9 @@
 
   {
     "class": "icon_use_buffer",
-    "layer0.texture": "Material Theme/assets/commons/use_buffer--hover.png",
+    "layer0.texture": "Material Facebook Theme/assets/commons/use_buffer--hover.png",
     "layer0.opacity": { "target": 0.0, "speed": 6.0, "interpolation": "smoothstep" },
-    "layer1.texture": "Material Theme/assets/default/use_buffer.png",
+    "layer1.texture": "Material Facebook Theme/assets/default/use_buffer.png",
     "layer1.opacity": { "target": 1.0, "speed": 6.0, "interpolation": "smoothstep" },
     "content_margin": [12, 12]
   },
@@ -227,9 +227,9 @@
 
   {
     "class": "icon_reverse",
-    "layer0.texture": "Material Theme/assets/commons/find_reverse--hover.png",
+    "layer0.texture": "Material Facebook Theme/assets/commons/find_reverse--hover.png",
     "layer0.opacity": { "target": 0.0, "speed": 6.0, "interpolation": "smoothstep" },
-    "layer1.texture": "Material Theme/assets/default/find_reverse.png",
+    "layer1.texture": "Material Facebook Theme/assets/default/find_reverse.png",
     "layer1.opacity": { "target": 1.0, "speed": 6.0, "interpolation": "smoothstep" },
     "content_margin": [12, 12]
   },

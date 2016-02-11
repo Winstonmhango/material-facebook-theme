@@ -6,7 +6,7 @@
 
   {
     "class": "sidebar_container",
-    "layer0.tint": [38, 50, 56],
+    "layer0.tint": [37, 43, 57],
     "layer0.opacity": 1.0,
     "layer0.draw_center": false,
     "layer0.inner_margin": [0, 24, 12, 24],
@@ -18,7 +18,7 @@
     "indent": 16,
     "indent_offset": 0,
     "indent_top_level": false,
-    "layer0.tint": [38, 50, 56],
+    "layer0.tint": [37, 43, 57],
     "layer0.opacity": 1.0
   },
 
@@ -42,7 +42,7 @@
 
   {
      "class": "tree_row",
-     "layer1.texture": "Material Theme/assets/commons/tree_highlight.png",
+     "layer1.texture": "Material Facebook Theme/assets/commons/tree_highlight.png",
      "layer1.opacity": { "target": 0.0, "speed": 5.0, "interpolation": "smoothstep" },
      "layer1.inner_margin": [22, 8, 0, 0]
   },
@@ -141,13 +141,13 @@
   {
     "class": "icon_folder",
     "content_margin": [10, 8],
-    "layer0.tint": [38, 50, 56],
+    "layer0.tint": [37, 43, 57],
     "layer0.opacity": 0,
-    "layer1.texture": "Material Theme/assets/default/folder.png",
+    "layer1.texture": "Material Facebook Theme/assets/default/folder.png",
     "layer1.opacity": 1,
-    "layer2.texture": "Material Theme/assets/commons/folder--hover.png",
+    "layer2.texture": "Material Facebook Theme/assets/commons/folder--hover.png",
     "layer2.opacity": 0.0,
-    "layer3.texture": "Material Theme/assets/commons/folder_opened--hover.png",
+    "layer3.texture": "Material Facebook Theme/assets/commons/folder_opened--hover.png",
     "layer3.opacity": 0.0,
   },
 
@@ -183,19 +183,19 @@
     {
       "keyframes":
       [
-        "Material Theme/assets/commons/folder_opened--hover-0.png",
-        "Material Theme/assets/commons/folder_opened--hover-1.png",
-        "Material Theme/assets/commons/folder_opened--hover-2.png",
-        "Material Theme/assets/commons/folder_opened--hover-3.png",
-        "Material Theme/assets/commons/folder_opened--hover-4.png",
-        "Material Theme/assets/commons/folder_opened--hover-5.png",
-        "Material Theme/assets/commons/folder_opened--hover-5.png",
-        "Material Theme/assets/commons/folder_opened--hover-5.png",
-        "Material Theme/assets/commons/folder_opened--hover-6.png",
-        "Material Theme/assets/commons/folder_opened--hover-6.png",
-        "Material Theme/assets/commons/folder_opened--hover-6.png",
-        "Material Theme/assets/commons/folder_opened--hover-6.png",
-        "Material Theme/assets/commons/folder_opened--hover-7.png",
+        "Material Facebook Theme/assets/commons/folder_opened--hover-0.png",
+        "Material Facebook Theme/assets/commons/folder_opened--hover-1.png",
+        "Material Facebook Theme/assets/commons/folder_opened--hover-2.png",
+        "Material Facebook Theme/assets/commons/folder_opened--hover-3.png",
+        "Material Facebook Theme/assets/commons/folder_opened--hover-4.png",
+        "Material Facebook Theme/assets/commons/folder_opened--hover-5.png",
+        "Material Facebook Theme/assets/commons/folder_opened--hover-5.png",
+        "Material Facebook Theme/assets/commons/folder_opened--hover-5.png",
+        "Material Facebook Theme/assets/commons/folder_opened--hover-6.png",
+        "Material Facebook Theme/assets/commons/folder_opened--hover-6.png",
+        "Material Facebook Theme/assets/commons/folder_opened--hover-6.png",
+        "Material Facebook Theme/assets/commons/folder_opened--hover-6.png",
+        "Material Facebook Theme/assets/commons/folder_opened--hover-7.png",
       ],
       "loop": false,
       "frame_time": 0.020,
@@ -211,7 +211,7 @@
     [
       { "class": "tree_row", "attributes": ["selected"] }
     ],
-    "layer1.texture": "Material Theme/assets/commons/folder--hover.png",
+    "layer1.texture": "Material Facebook Theme/assets/commons/folder--hover.png",
   },
 
     // Folder loading
@@ -222,18 +222,18 @@
     {
       "keyframes":
       [
-        "Material Theme/assets/commons/spinner11.png",
-        "Material Theme/assets/commons/spinner10.png",
-        "Material Theme/assets/commons/spinner9.png",
-        "Material Theme/assets/commons/spinner8.png",
-        "Material Theme/assets/commons/spinner7.png",
-        "Material Theme/assets/commons/spinner6.png",
-        "Material Theme/assets/commons/spinner5.png",
-        "Material Theme/assets/commons/spinner4.png",
-        "Material Theme/assets/commons/spinner3.png",
-        "Material Theme/assets/commons/spinner2.png",
-        "Material Theme/assets/commons/spinner1.png",
-        "Material Theme/assets/commons/spinner.png",
+        "Material Facebook Theme/assets/commons/spinner11.png",
+        "Material Facebook Theme/assets/commons/spinner10.png",
+        "Material Facebook Theme/assets/commons/spinner9.png",
+        "Material Facebook Theme/assets/commons/spinner8.png",
+        "Material Facebook Theme/assets/commons/spinner7.png",
+        "Material Facebook Theme/assets/commons/spinner6.png",
+        "Material Facebook Theme/assets/commons/spinner5.png",
+        "Material Facebook Theme/assets/commons/spinner4.png",
+        "Material Facebook Theme/assets/commons/spinner3.png",
+        "Material Facebook Theme/assets/commons/spinner2.png",
+        "Material Facebook Theme/assets/commons/spinner1.png",
+        "Material Facebook Theme/assets/commons/spinner.png",
       ],
       "loop": true,
       "frame_time": 0.075,
@@ -247,7 +247,7 @@
 
   {
     "class": "icon_folder_dup",
-    "layer0.texture": "Material Theme/assets/default/folder_dup.png",
+    "layer0.texture": "Material Facebook Theme/assets/default/folder_dup.png",
     "layer0.opacity": 1.0,
     "content_margin": [10, 8]
   },
@@ -256,23 +256,23 @@
     "class": "icon_folder_dup",
     "parents":
     [{ "class": "tree_row", "attributes": ["hover"] }],
-    "layer0.texture": "Material Theme/assets/commons/folder_dup--hover.png"
+    "layer0.texture": "Material Facebook Theme/assets/commons/folder_dup--hover.png"
   },
 
   {
     "class": "icon_folder_dup",
     "parents": [{"class": "tree_row", "attributes": ["expanded"] }],
-    "layer0.texture": "Material Theme/assets/commons/folder_dup--hover.png"
+    "layer0.texture": "Material Facebook Theme/assets/commons/folder_dup--hover.png"
   },
 
     // Hidden arrow icon before folder
 
   {
     "class": "disclosure_button_control",
-    "layer0.texture": "Material Theme/assets/default/folder.png",
+    "layer0.texture": "Material Facebook Theme/assets/default/folder.png",
     "layer0.opacity": 1.0,
     "layer0.inner_margin": 0,
-    "layer1.texture": "Material Theme/assets/commons/folder--hover.png",
+    "layer1.texture": "Material Facebook Theme/assets/commons/folder--hover.png",
     "layer1.opacity": 0.0,
     "layer1.inner_margin": 0,
     "content_margin": [0, 0, 0, 0]
@@ -291,12 +291,12 @@
   {
     "class": "disclosure_button_control",
     "attributes": ["expanded"],
-    "layer0.texture": "Material Theme/assets/commons/folder_opened--hover.png",
+    "layer0.texture": "Material Facebook Theme/assets/commons/folder_opened--hover.png",
   },
 
   {
     "class": "tree_row",
-    "layer0.tint": [38, 50, 56],
+    "layer0.tint": [37, 43, 57],
     "layer0.opacity": 0.0,
     "layer0.inner_margin": [1, 1]
   },
@@ -314,12 +314,12 @@
     "content_margin": [8, 8],
 
     // Default Close icon
-    "layer0.texture": "Material Theme/assets/default/close_icon.png",
+    "layer0.texture": "Material Facebook Theme/assets/default/close_icon.png",
     "layer0.opacity": { "target": 0.0, "speed": 7.0, "interpolation": "smoothstep" },
     "layer0.inner_margin": [0,0],
 
     // Hover close icon
-    "layer1.texture": "Material Theme/assets/commons/close_icon--hover.png",
+    "layer1.texture": "Material Facebook Theme/assets/commons/close_icon--hover.png",
     "layer1.opacity": 0,
     "layer1.inner_margin": [0,0],
   },
@@ -333,7 +333,7 @@
       { "class": "tree_row", "attributes": ["hover"] }
     ],
     // Default Close icon
-    "layer0.texture": "Material Theme/assets/default/close_icon.png",
+    "layer0.texture": "Material Facebook Theme/assets/default/close_icon.png",
     "layer0.opacity": { "target": 1.0, "speed": 7.0, "interpolation": "smoothstep" },
     "layer0.inner_margin": [0,0],
   },
@@ -341,7 +341,7 @@
   {
     "class": "close_button",
     "attributes": ["dirty"],
-    "layer0.texture": "Material Theme/assets/commons/dirty_icon--hover.png",
+    "layer0.texture": "Material Facebook Theme/assets/commons/dirty_icon--hover.png",
     "layer0.opacity": 1.0
   },
 

@@ -14,7 +14,7 @@ NOTE: This rulers must only override the original definitions */
     "class": "panel_button_control",
     "settings": ["material_theme_accent_lime"],
     "attributes": ["hover"],
-    "layer0.texture": "Material Theme/assets/accent-lime/overflow_menu--hover.png",
+    "layer0.texture": "Material Facebook Theme/assets/accent-lime/overflow_menu--hover.png",
   },
 
   // Tooltip
@@ -49,7 +49,7 @@ NOTE: This rulers must only override the original definitions */
   {
     "class": "tree_row",
     "settings": ["material_theme_accent_lime"],
-    "layer1.texture": "Material Theme/assets/accent-lime/tree_highlight.png",
+    "layer1.texture": "Material Facebook Theme/assets/accent-lime/tree_highlight.png",
   },
 
     // Tabs
@@ -57,7 +57,7 @@ NOTE: This rulers must only override the original definitions */
   {
     "class": "tab_control",
     "settings": ["material_theme_accent_lime"],
-    "layer1.texture": "Material Theme/assets/accent-lime/tab_current.png",
+    "layer1.texture": "Material Facebook Theme/assets/accent-lime/tab_current.png",
   },
 
     // Tabs close button
@@ -65,8 +65,8 @@ NOTE: This rulers must only override the original definitions */
   {
     "class": "tab_close_button",
     "settings": ["material_theme_accent_lime"],
-    "layer1.texture": "Material Theme/assets/accent-lime/close_icon--hover.png",
-    "layer3.texture": "Material Theme/assets/accent-lime/dirty_icon--hover.png"
+    "layer1.texture": "Material Facebook Theme/assets/accent-lime/close_icon--hover.png",
+    "layer3.texture": "Material Facebook Theme/assets/accent-lime/dirty_icon--hover.png"
   },
 
     // Opened files
@@ -74,7 +74,7 @@ NOTE: This rulers must only override the original definitions */
   {
     "class": "close_button",
     "settings": ["material_theme_accent_lime"],
-    "layer1.texture": "Material Theme/assets/accent-lime/close_icon--hover.png",
+    "layer1.texture": "Material Facebook Theme/assets/accent-lime/close_icon--hover.png",
   },
 
     // Dirty opened files
@@ -83,7 +83,7 @@ NOTE: This rulers must only override the original definitions */
     "class": "close_button",
     "attributes": ["dirty"],
     "settings": ["material_theme_accent_lime"],
-    "layer0.texture": "Material Theme/assets/accent-lime/dirty_icon--hover.png",
+    "layer0.texture": "Material Facebook Theme/assets/accent-lime/dirty_icon--hover.png",
   },
 
   {
@@ -96,8 +96,8 @@ NOTE: This rulers must only override the original definitions */
   {
     "class": "icon_folder",
     "settings": ["material_theme_accent_lime"],
-    "layer2.texture": "Material Theme/assets/accent-lime/folder--hover.png",
-    "layer3.texture": "Material Theme/assets/accent-lime/folder_opened--hover.png",
+    "layer2.texture": "Material Facebook Theme/assets/accent-lime/folder--hover.png",
+    "layer3.texture": "Material Facebook Theme/assets/accent-lime/folder_opened--hover.png",
   },
 
   {
@@ -108,19 +108,19 @@ NOTE: This rulers must only override the original definitions */
     {
       "keyframes":
       [
-        "Material Theme/assets/accent-lime/folder_opened--hover-0.png",
-        "Material Theme/assets/accent-lime/folder_opened--hover-1.png",
-        "Material Theme/assets/accent-lime/folder_opened--hover-2.png",
-        "Material Theme/assets/accent-lime/folder_opened--hover-3.png",
-        "Material Theme/assets/accent-lime/folder_opened--hover-4.png",
-        "Material Theme/assets/accent-lime/folder_opened--hover-5.png",
-        "Material Theme/assets/accent-lime/folder_opened--hover-5.png",
-        "Material Theme/assets/accent-lime/folder_opened--hover-5.png",
-        "Material Theme/assets/accent-lime/folder_opened--hover-6.png",
-        "Material Theme/assets/accent-lime/folder_opened--hover-6.png",
-        "Material Theme/assets/accent-lime/folder_opened--hover-6.png",
-        "Material Theme/assets/accent-lime/folder_opened--hover-6.png",
-        "Material Theme/assets/accent-lime/folder_opened--hover-7.png",
+        "Material Facebook Theme/assets/accent-lime/folder_opened--hover-0.png",
+        "Material Facebook Theme/assets/accent-lime/folder_opened--hover-1.png",
+        "Material Facebook Theme/assets/accent-lime/folder_opened--hover-2.png",
+        "Material Facebook Theme/assets/accent-lime/folder_opened--hover-3.png",
+        "Material Facebook Theme/assets/accent-lime/folder_opened--hover-4.png",
+        "Material Facebook Theme/assets/accent-lime/folder_opened--hover-5.png",
+        "Material Facebook Theme/assets/accent-lime/folder_opened--hover-5.png",
+        "Material Facebook Theme/assets/accent-lime/folder_opened--hover-5.png",
+        "Material Facebook Theme/assets/accent-lime/folder_opened--hover-6.png",
+        "Material Facebook Theme/assets/accent-lime/folder_opened--hover-6.png",
+        "Material Facebook Theme/assets/accent-lime/folder_opened--hover-6.png",
+        "Material Facebook Theme/assets/accent-lime/folder_opened--hover-6.png",
+        "Material Facebook Theme/assets/accent-lime/folder_opened--hover-7.png",
       ],
       "loop": false,
       "frame_time": 0.020,
@@ -136,14 +136,14 @@ NOTE: This rulers must only override the original definitions */
     {
       "keyframes":
       [
-        "Material Theme/assets/accent-lime/spinner7.png",
-        "Material Theme/assets/accent-lime/spinner6.png",
-        "Material Theme/assets/accent-lime/spinner5.png",
-        "Material Theme/assets/accent-lime/spinner4.png",
-        "Material Theme/assets/accent-lime/spinner3.png",
-        "Material Theme/assets/accent-lime/spinner2.png",
-        "Material Theme/assets/accent-lime/spinner1.png",
-        "Material Theme/assets/accent-lime/spinner.png",
+        "Material Facebook Theme/assets/accent-lime/spinner7.png",
+        "Material Facebook Theme/assets/accent-lime/spinner6.png",
+        "Material Facebook Theme/assets/accent-lime/spinner5.png",
+        "Material Facebook Theme/assets/accent-lime/spinner4.png",
+        "Material Facebook Theme/assets/accent-lime/spinner3.png",
+        "Material Facebook Theme/assets/accent-lime/spinner2.png",
+        "Material Facebook Theme/assets/accent-lime/spinner1.png",
+        "Material Facebook Theme/assets/accent-lime/spinner.png",
       ],
       "loop": true,
       "frame_time": 0.075,
@@ -155,29 +155,29 @@ NOTE: This rulers must only override the original definitions */
   {
     "class": "scroll_tabs_left_button",
     "settings": ["material_theme_accent_lime"],
-    "layer1.texture": "Material Theme/assets/accent-lime/arrow_left--hover.png",
+    "layer1.texture": "Material Facebook Theme/assets/accent-lime/arrow_left--hover.png",
   },
 
   {
     "class": "scroll_tabs_right_button",
     "settings": ["material_theme_accent_lime"],
-    "layer1.texture": "Material Theme/assets/accent-lime/arrow_right--hover.png",
+    "layer1.texture": "Material Facebook Theme/assets/accent-lime/arrow_right--hover.png",
   },
 
 
   {
     "class": "fold_button_control",
     "settings": ["material_theme_accent_lime"],
-    "layer0.texture": "Material Theme/assets/commons/fold_right.png",
-    "layer1.texture": "Material Theme/assets/accent-lime/fold_right--hover.png",
+    "layer0.texture": "Material Facebook Theme/assets/commons/fold_right.png",
+    "layer1.texture": "Material Facebook Theme/assets/accent-lime/fold_right--hover.png",
   },
 
   {
     "class": "fold_button_control",
     "attributes": ["expanded"],
     "settings": ["material_theme_accent_lime"],
-    "layer0.texture": "Material Theme/assets/darker/fold_down.png",
-    "layer1.texture": "Material Theme/assets/accent-lime/fold_down--hover.png"
+    "layer0.texture": "Material Facebook Theme/assets/darker/fold_down.png",
+    "layer1.texture": "Material Facebook Theme/assets/accent-lime/fold_down--hover.png"
   },
 
   // Panel labels
@@ -226,7 +226,7 @@ NOTE: This rulers must only override the original definitions */
   {
     "class": "show_tabs_dropdown_button",
     "settings": ["material_theme_accent_lime"],
-    "layer1.texture": "Material Theme/assets/accent-lime/overflow_menu--hover.png",
+    "layer1.texture": "Material Facebook Theme/assets/accent-lime/overflow_menu--hover.png",
   },
 
     // Textline input oveflow menu
@@ -234,7 +234,7 @@ NOTE: This rulers must only override the original definitions */
   {
     "class": "dropdown_button_control",
     "settings": ["material_theme_accent_lime"],
-    "layer1.texture": "Material Theme/assets/accent-lime/overflow_menu--hover.png",
+    "layer1.texture": "Material Facebook Theme/assets/accent-lime/overflow_menu--hover.png",
   },
 
   /* Buttons icons settings
@@ -244,7 +244,7 @@ NOTE: This rulers must only override the original definitions */
   {
     "class": "icon_regex",
     "settings": ["material_theme_accent_lime"],
-    "layer0.texture": "Material Theme/assets/accent-lime/find_regex--hover.png",
+    "layer0.texture": "Material Facebook Theme/assets/accent-lime/find_regex--hover.png",
   },
 
     // Preserve case sensitive
@@ -252,14 +252,14 @@ NOTE: This rulers must only override the original definitions */
   {
     "class": "icon_case",
     "settings": ["material_theme_accent_lime"],
-    "layer0.texture": "Material Theme/assets/accent-lime/find_case--hover.png",
+    "layer0.texture": "Material Facebook Theme/assets/accent-lime/find_case--hover.png",
   },
     // Wholeword
 
   {
     "class": "icon_whole_word",
     "settings": ["material_theme_accent_lime"],
-    "layer0.texture": "Material Theme/assets/accent-lime/find_word--hover.png",
+    "layer0.texture": "Material Facebook Theme/assets/accent-lime/find_word--hover.png",
   },
 
     // Wrap
@@ -267,7 +267,7 @@ NOTE: This rulers must only override the original definitions */
   {
     "class": "icon_wrap",
     "settings": ["material_theme_accent_lime"],
-    "layer0.texture": "Material Theme/assets/accent-lime/find_wrap--hover.png",
+    "layer0.texture": "Material Facebook Theme/assets/accent-lime/find_wrap--hover.png",
   },
 
     // In selection
@@ -275,7 +275,7 @@ NOTE: This rulers must only override the original definitions */
   {
     "class": "icon_in_selection",
     "settings": ["material_theme_accent_lime"],
-    "layer0.texture": "Material Theme/assets/accent-lime/find_inselection--hover.png",
+    "layer0.texture": "Material Facebook Theme/assets/accent-lime/find_inselection--hover.png",
   },
 
 
@@ -284,7 +284,7 @@ NOTE: This rulers must only override the original definitions */
   {
     "class": "icon_highlight",
     "settings": ["material_theme_accent_lime"],
-    "layer0.texture": "Material Theme/assets/accent-lime/find_highlight--hover.png",
+    "layer0.texture": "Material Facebook Theme/assets/accent-lime/find_highlight--hover.png",
   },
 
     // Preserve Case
@@ -292,7 +292,7 @@ NOTE: This rulers must only override the original definitions */
   {
     "class": "icon_preserve_case",
     "settings": ["material_theme_accent_lime"],
-    "layer0.texture": "Material Theme/assets/accent-lime/replace_preserve_case--hover.png",
+    "layer0.texture": "Material Facebook Theme/assets/accent-lime/replace_preserve_case--hover.png",
   },
 
     // Show context
@@ -300,7 +300,7 @@ NOTE: This rulers must only override the original definitions */
   {
     "class": "icon_context",
     "settings": ["material_theme_accent_lime"],
-    "layer0.texture": "Material Theme/assets/accent-lime/find_context--hover.png",
+    "layer0.texture": "Material Facebook Theme/assets/accent-lime/find_context--hover.png",
   },
 
     // Use buffer
@@ -308,7 +308,7 @@ NOTE: This rulers must only override the original definitions */
   {
     "class": "icon_use_buffer",
     "settings": ["material_theme_accent_lime"],
-    "layer0.texture": "Material Theme/assets/accent-lime/use_buffer--hover.png",
+    "layer0.texture": "Material Facebook Theme/assets/accent-lime/use_buffer--hover.png",
   },
 
     // Reverse direction
@@ -316,7 +316,7 @@ NOTE: This rulers must only override the original definitions */
   {
     "class": "icon_reverse",
     "settings": ["material_theme_accent_lime"],
-    "layer0.texture": "Material Theme/assets/accent-lime/find_reverse--hover.png",
+    "layer0.texture": "Material Facebook Theme/assets/accent-lime/find_reverse--hover.png",
   },
 
 /* PURPLE ACCENT
@@ -327,7 +327,7 @@ NOTE: This rulers must only override the original definitions */
     "class": "panel_button_control",
     "settings": ["material_theme_accent_purple"],
     "attributes": ["hover"],
-    "layer0.texture": "Material Theme/assets/accent-purple/overflow_menu--hover.png",
+    "layer0.texture": "Material Facebook Theme/assets/accent-purple/overflow_menu--hover.png",
   },
 
   // Tooltip
@@ -362,7 +362,7 @@ NOTE: This rulers must only override the original definitions */
   {
     "class": "tree_row",
     "settings": ["material_theme_accent_purple"],
-    "layer1.texture": "Material Theme/assets/accent-purple/tree_highlight.png",
+    "layer1.texture": "Material Facebook Theme/assets/accent-purple/tree_highlight.png",
   },
 
     // Tabs
@@ -370,7 +370,7 @@ NOTE: This rulers must only override the original definitions */
   {
     "class": "tab_control",
     "settings": ["material_theme_accent_purple"],
-    "layer1.texture": "Material Theme/assets/accent-purple/tab_current.png",
+    "layer1.texture": "Material Facebook Theme/assets/accent-purple/tab_current.png",
   },
 
     // Tabs close button
@@ -378,8 +378,8 @@ NOTE: This rulers must only override the original definitions */
   {
     "class": "tab_close_button",
     "settings": ["material_theme_accent_purple"],
-    "layer1.texture": "Material Theme/assets/accent-purple/close_icon--hover.png",
-    "layer3.texture": "Material Theme/assets/accent-purple/dirty_icon--hover.png"
+    "layer1.texture": "Material Facebook Theme/assets/accent-purple/close_icon--hover.png",
+    "layer3.texture": "Material Facebook Theme/assets/accent-purple/dirty_icon--hover.png"
   },
 
     // Opened files
@@ -387,7 +387,7 @@ NOTE: This rulers must only override the original definitions */
   {
     "class": "close_button",
     "settings": ["material_theme_accent_purple"],
-    "layer1.texture": "Material Theme/assets/accent-purple/close_icon--hover.png",
+    "layer1.texture": "Material Facebook Theme/assets/accent-purple/close_icon--hover.png",
   },
 
     // Dirty opened files
@@ -396,7 +396,7 @@ NOTE: This rulers must only override the original definitions */
     "class": "close_button",
     "attributes": ["dirty"],
     "settings": ["material_theme_accent_purple"],
-    "layer0.texture": "Material Theme/assets/accent-purple/dirty_icon--hover.png",
+    "layer0.texture": "Material Facebook Theme/assets/accent-purple/dirty_icon--hover.png",
   },
 
   {
@@ -409,8 +409,8 @@ NOTE: This rulers must only override the original definitions */
   {
     "class": "icon_folder",
     "settings": ["material_theme_accent_purple"],
-    "layer2.texture": "Material Theme/assets/accent-purple/folder--hover.png",
-    "layer3.texture": "Material Theme/assets/accent-purple/folder_opened--hover.png",
+    "layer2.texture": "Material Facebook Theme/assets/accent-purple/folder--hover.png",
+    "layer3.texture": "Material Facebook Theme/assets/accent-purple/folder_opened--hover.png",
   },
 
   {
@@ -421,19 +421,19 @@ NOTE: This rulers must only override the original definitions */
     {
       "keyframes":
       [
-        "Material Theme/assets/accent-purple/folder_opened--hover-0.png",
-        "Material Theme/assets/accent-purple/folder_opened--hover-1.png",
-        "Material Theme/assets/accent-purple/folder_opened--hover-2.png",
-        "Material Theme/assets/accent-purple/folder_opened--hover-3.png",
-        "Material Theme/assets/accent-purple/folder_opened--hover-4.png",
-        "Material Theme/assets/accent-purple/folder_opened--hover-5.png",
-        "Material Theme/assets/accent-purple/folder_opened--hover-5.png",
-        "Material Theme/assets/accent-purple/folder_opened--hover-5.png",
-        "Material Theme/assets/accent-purple/folder_opened--hover-6.png",
-        "Material Theme/assets/accent-purple/folder_opened--hover-6.png",
-        "Material Theme/assets/accent-purple/folder_opened--hover-6.png",
-        "Material Theme/assets/accent-purple/folder_opened--hover-6.png",
-        "Material Theme/assets/accent-purple/folder_opened--hover-7.png",
+        "Material Facebook Theme/assets/accent-purple/folder_opened--hover-0.png",
+        "Material Facebook Theme/assets/accent-purple/folder_opened--hover-1.png",
+        "Material Facebook Theme/assets/accent-purple/folder_opened--hover-2.png",
+        "Material Facebook Theme/assets/accent-purple/folder_opened--hover-3.png",
+        "Material Facebook Theme/assets/accent-purple/folder_opened--hover-4.png",
+        "Material Facebook Theme/assets/accent-purple/folder_opened--hover-5.png",
+        "Material Facebook Theme/assets/accent-purple/folder_opened--hover-5.png",
+        "Material Facebook Theme/assets/accent-purple/folder_opened--hover-5.png",
+        "Material Facebook Theme/assets/accent-purple/folder_opened--hover-6.png",
+        "Material Facebook Theme/assets/accent-purple/folder_opened--hover-6.png",
+        "Material Facebook Theme/assets/accent-purple/folder_opened--hover-6.png",
+        "Material Facebook Theme/assets/accent-purple/folder_opened--hover-6.png",
+        "Material Facebook Theme/assets/accent-purple/folder_opened--hover-7.png",
       ],
       "loop": false,
       "frame_time": 0.020,
@@ -449,14 +449,14 @@ NOTE: This rulers must only override the original definitions */
     {
       "keyframes":
       [
-        "Material Theme/assets/accent-purple/spinner7.png",
-        "Material Theme/assets/accent-purple/spinner6.png",
-        "Material Theme/assets/accent-purple/spinner5.png",
-        "Material Theme/assets/accent-purple/spinner4.png",
-        "Material Theme/assets/accent-purple/spinner3.png",
-        "Material Theme/assets/accent-purple/spinner2.png",
-        "Material Theme/assets/accent-purple/spinner1.png",
-        "Material Theme/assets/accent-purple/spinner.png",
+        "Material Facebook Theme/assets/accent-purple/spinner7.png",
+        "Material Facebook Theme/assets/accent-purple/spinner6.png",
+        "Material Facebook Theme/assets/accent-purple/spinner5.png",
+        "Material Facebook Theme/assets/accent-purple/spinner4.png",
+        "Material Facebook Theme/assets/accent-purple/spinner3.png",
+        "Material Facebook Theme/assets/accent-purple/spinner2.png",
+        "Material Facebook Theme/assets/accent-purple/spinner1.png",
+        "Material Facebook Theme/assets/accent-purple/spinner.png",
       ],
       "loop": true,
       "frame_time": 0.075,
@@ -468,29 +468,29 @@ NOTE: This rulers must only override the original definitions */
   {
     "class": "scroll_tabs_left_button",
     "settings": ["material_theme_accent_purple"],
-    "layer1.texture": "Material Theme/assets/accent-purple/arrow_left--hover.png",
+    "layer1.texture": "Material Facebook Theme/assets/accent-purple/arrow_left--hover.png",
   },
 
   {
     "class": "scroll_tabs_right_button",
     "settings": ["material_theme_accent_purple"],
-    "layer1.texture": "Material Theme/assets/accent-purple/arrow_right--hover.png",
+    "layer1.texture": "Material Facebook Theme/assets/accent-purple/arrow_right--hover.png",
   },
 
 
   {
     "class": "fold_button_control",
     "settings": ["material_theme_accent_purple"],
-    "layer0.texture": "Material Theme/assets/commons/fold_right.png",
-    "layer1.texture": "Material Theme/assets/accent-purple/fold_right--hover.png",
+    "layer0.texture": "Material Facebook Theme/assets/commons/fold_right.png",
+    "layer1.texture": "Material Facebook Theme/assets/accent-purple/fold_right--hover.png",
   },
 
   {
     "class": "fold_button_control",
     "attributes": ["expanded"],
     "settings": ["material_theme_accent_purple"],
-    "layer0.texture": "Material Theme/assets/darker/fold_down.png",
-    "layer1.texture": "Material Theme/assets/accent-purple/fold_down--hover.png"
+    "layer0.texture": "Material Facebook Theme/assets/darker/fold_down.png",
+    "layer1.texture": "Material Facebook Theme/assets/accent-purple/fold_down--hover.png"
   },
 
   // Panel labels
@@ -539,7 +539,7 @@ NOTE: This rulers must only override the original definitions */
   {
     "class": "show_tabs_dropdown_button",
     "settings": ["material_theme_accent_purple"],
-    "layer1.texture": "Material Theme/assets/accent-purple/overflow_menu--hover.png",
+    "layer1.texture": "Material Facebook Theme/assets/accent-purple/overflow_menu--hover.png",
   },
 
     // Textline input oveflow menu
@@ -547,7 +547,7 @@ NOTE: This rulers must only override the original definitions */
   {
     "class": "dropdown_button_control",
     "settings": ["material_theme_accent_purple"],
-    "layer1.texture": "Material Theme/assets/accent-purple/overflow_menu--hover.png",
+    "layer1.texture": "Material Facebook Theme/assets/accent-purple/overflow_menu--hover.png",
   },
 
   /* Buttons icons settings
@@ -557,7 +557,7 @@ NOTE: This rulers must only override the original definitions */
   {
     "class": "icon_regex",
     "settings": ["material_theme_accent_purple"],
-    "layer0.texture": "Material Theme/assets/accent-purple/find_regex--hover.png",
+    "layer0.texture": "Material Facebook Theme/assets/accent-purple/find_regex--hover.png",
   },
 
     // Preserve case sensitive
@@ -565,14 +565,14 @@ NOTE: This rulers must only override the original definitions */
   {
     "class": "icon_case",
     "settings": ["material_theme_accent_purple"],
-    "layer0.texture": "Material Theme/assets/accent-purple/find_case--hover.png",
+    "layer0.texture": "Material Facebook Theme/assets/accent-purple/find_case--hover.png",
   },
     // Wholeword
 
   {
     "class": "icon_whole_word",
     "settings": ["material_theme_accent_purple"],
-    "layer0.texture": "Material Theme/assets/accent-purple/find_word--hover.png",
+    "layer0.texture": "Material Facebook Theme/assets/accent-purple/find_word--hover.png",
   },
 
     // Wrap
@@ -580,7 +580,7 @@ NOTE: This rulers must only override the original definitions */
   {
     "class": "icon_wrap",
     "settings": ["material_theme_accent_purple"],
-    "layer0.texture": "Material Theme/assets/accent-purple/find_wrap--hover.png",
+    "layer0.texture": "Material Facebook Theme/assets/accent-purple/find_wrap--hover.png",
   },
 
     // In selection
@@ -588,7 +588,7 @@ NOTE: This rulers must only override the original definitions */
   {
     "class": "icon_in_selection",
     "settings": ["material_theme_accent_purple"],
-    "layer0.texture": "Material Theme/assets/accent-purple/find_inselection--hover.png",
+    "layer0.texture": "Material Facebook Theme/assets/accent-purple/find_inselection--hover.png",
   },
 
 
@@ -597,7 +597,7 @@ NOTE: This rulers must only override the original definitions */
   {
     "class": "icon_highlight",
     "settings": ["material_theme_accent_purple"],
-    "layer0.texture": "Material Theme/assets/accent-purple/find_highlight--hover.png",
+    "layer0.texture": "Material Facebook Theme/assets/accent-purple/find_highlight--hover.png",
   },
 
     // Preserve Case
@@ -605,7 +605,7 @@ NOTE: This rulers must only override the original definitions */
   {
     "class": "icon_preserve_case",
     "settings": ["material_theme_accent_purple"],
-    "layer0.texture": "Material Theme/assets/accent-purple/replace_preserve_case--hover.png",
+    "layer0.texture": "Material Facebook Theme/assets/accent-purple/replace_preserve_case--hover.png",
   },
 
     // Show context
@@ -613,7 +613,7 @@ NOTE: This rulers must only override the original definitions */
   {
     "class": "icon_context",
     "settings": ["material_theme_accent_purple"],
-    "layer0.texture": "Material Theme/assets/accent-purple/find_context--hover.png",
+    "layer0.texture": "Material Facebook Theme/assets/accent-purple/find_context--hover.png",
   },
 
     // Use buffer
@@ -621,7 +621,7 @@ NOTE: This rulers must only override the original definitions */
   {
     "class": "icon_use_buffer",
     "settings": ["material_theme_accent_purple"],
-    "layer0.texture": "Material Theme/assets/accent-purple/use_buffer--hover.png",
+    "layer0.texture": "Material Facebook Theme/assets/accent-purple/use_buffer--hover.png",
   },
 
     // Reverse direction
@@ -629,7 +629,7 @@ NOTE: This rulers must only override the original definitions */
   {
     "class": "icon_reverse",
     "settings": ["material_theme_accent_purple"],
-    "layer0.texture": "Material Theme/assets/accent-purple/find_reverse--hover.png",
+    "layer0.texture": "Material Facebook Theme/assets/accent-purple/find_reverse--hover.png",
   },
 
 /* RED ACCENT
@@ -639,7 +639,7 @@ NOTE: This rulers must only override the original definitions */
     "class": "panel_button_control",
     "settings": ["material_theme_accent_red"],
     "attributes": ["hover"],
-    "layer0.texture": "Material Theme/assets/accent-red/overflow_menu--hover.png",
+    "layer0.texture": "Material Facebook Theme/assets/accent-red/overflow_menu--hover.png",
   },
 
   // Tooltip
@@ -674,7 +674,7 @@ NOTE: This rulers must only override the original definitions */
   {
     "class": "tree_row",
     "settings": ["material_theme_accent_red"],
-    "layer1.texture": "Material Theme/assets/accent-red/tree_highlight.png",
+    "layer1.texture": "Material Facebook Theme/assets/accent-red/tree_highlight.png",
   },
 
     // Tabs
@@ -682,7 +682,7 @@ NOTE: This rulers must only override the original definitions */
   {
     "class": "tab_control",
     "settings": ["material_theme_accent_red"],
-    "layer1.texture": "Material Theme/assets/accent-red/tab_current.png",
+    "layer1.texture": "Material Facebook Theme/assets/accent-red/tab_current.png",
   },
 
     // Tabs close button
@@ -690,8 +690,8 @@ NOTE: This rulers must only override the original definitions */
   {
     "class": "tab_close_button",
     "settings": ["material_theme_accent_red"],
-    "layer1.texture": "Material Theme/assets/accent-red/close_icon--hover.png",
-    "layer3.texture": "Material Theme/assets/accent-red/dirty_icon--hover.png"
+    "layer1.texture": "Material Facebook Theme/assets/accent-red/close_icon--hover.png",
+    "layer3.texture": "Material Facebook Theme/assets/accent-red/dirty_icon--hover.png"
   },
 
     // Opened files
@@ -699,7 +699,7 @@ NOTE: This rulers must only override the original definitions */
   {
     "class": "close_button",
     "settings": ["material_theme_accent_red"],
-    "layer1.texture": "Material Theme/assets/accent-red/close_icon--hover.png",
+    "layer1.texture": "Material Facebook Theme/assets/accent-red/close_icon--hover.png",
   },
 
     // Dirty opened files
@@ -708,7 +708,7 @@ NOTE: This rulers must only override the original definitions */
     "class": "close_button",
     "attributes": ["dirty"],
     "settings": ["material_theme_accent_red"],
-    "layer0.texture": "Material Theme/assets/accent-red/dirty_icon--hover.png",
+    "layer0.texture": "Material Facebook Theme/assets/accent-red/dirty_icon--hover.png",
   },
 
   {
@@ -721,8 +721,8 @@ NOTE: This rulers must only override the original definitions */
   {
     "class": "icon_folder",
     "settings": ["material_theme_accent_red"],
-    "layer2.texture": "Material Theme/assets/accent-red/folder--hover.png",
-    "layer3.texture": "Material Theme/assets/accent-red/folder_opened--hover.png",
+    "layer2.texture": "Material Facebook Theme/assets/accent-red/folder--hover.png",
+    "layer3.texture": "Material Facebook Theme/assets/accent-red/folder_opened--hover.png",
   },
 
   {
@@ -733,19 +733,19 @@ NOTE: This rulers must only override the original definitions */
     {
       "keyframes":
       [
-        "Material Theme/assets/accent-red/folder_opened--hover-0.png",
-        "Material Theme/assets/accent-red/folder_opened--hover-1.png",
-        "Material Theme/assets/accent-red/folder_opened--hover-2.png",
-        "Material Theme/assets/accent-red/folder_opened--hover-3.png",
-        "Material Theme/assets/accent-red/folder_opened--hover-4.png",
-        "Material Theme/assets/accent-red/folder_opened--hover-5.png",
-        "Material Theme/assets/accent-red/folder_opened--hover-5.png",
-        "Material Theme/assets/accent-red/folder_opened--hover-5.png",
-        "Material Theme/assets/accent-red/folder_opened--hover-6.png",
-        "Material Theme/assets/accent-red/folder_opened--hover-6.png",
-        "Material Theme/assets/accent-red/folder_opened--hover-6.png",
-        "Material Theme/assets/accent-red/folder_opened--hover-6.png",
-        "Material Theme/assets/accent-red/folder_opened--hover-7.png",
+        "Material Facebook Theme/assets/accent-red/folder_opened--hover-0.png",
+        "Material Facebook Theme/assets/accent-red/folder_opened--hover-1.png",
+        "Material Facebook Theme/assets/accent-red/folder_opened--hover-2.png",
+        "Material Facebook Theme/assets/accent-red/folder_opened--hover-3.png",
+        "Material Facebook Theme/assets/accent-red/folder_opened--hover-4.png",
+        "Material Facebook Theme/assets/accent-red/folder_opened--hover-5.png",
+        "Material Facebook Theme/assets/accent-red/folder_opened--hover-5.png",
+        "Material Facebook Theme/assets/accent-red/folder_opened--hover-5.png",
+        "Material Facebook Theme/assets/accent-red/folder_opened--hover-6.png",
+        "Material Facebook Theme/assets/accent-red/folder_opened--hover-6.png",
+        "Material Facebook Theme/assets/accent-red/folder_opened--hover-6.png",
+        "Material Facebook Theme/assets/accent-red/folder_opened--hover-6.png",
+        "Material Facebook Theme/assets/accent-red/folder_opened--hover-7.png",
       ],
       "loop": false,
       "frame_time": 0.020,
@@ -761,14 +761,14 @@ NOTE: This rulers must only override the original definitions */
     {
       "keyframes":
       [
-        "Material Theme/assets/accent-red/spinner7.png",
-        "Material Theme/assets/accent-red/spinner6.png",
-        "Material Theme/assets/accent-red/spinner5.png",
-        "Material Theme/assets/accent-red/spinner4.png",
-        "Material Theme/assets/accent-red/spinner3.png",
-        "Material Theme/assets/accent-red/spinner2.png",
-        "Material Theme/assets/accent-red/spinner1.png",
-        "Material Theme/assets/accent-red/spinner.png",
+        "Material Facebook Theme/assets/accent-red/spinner7.png",
+        "Material Facebook Theme/assets/accent-red/spinner6.png",
+        "Material Facebook Theme/assets/accent-red/spinner5.png",
+        "Material Facebook Theme/assets/accent-red/spinner4.png",
+        "Material Facebook Theme/assets/accent-red/spinner3.png",
+        "Material Facebook Theme/assets/accent-red/spinner2.png",
+        "Material Facebook Theme/assets/accent-red/spinner1.png",
+        "Material Facebook Theme/assets/accent-red/spinner.png",
       ],
       "loop": true,
       "frame_time": 0.075,
@@ -780,29 +780,29 @@ NOTE: This rulers must only override the original definitions */
   {
     "class": "scroll_tabs_left_button",
     "settings": ["material_theme_accent_red"],
-    "layer1.texture": "Material Theme/assets/accent-red/arrow_left--hover.png",
+    "layer1.texture": "Material Facebook Theme/assets/accent-red/arrow_left--hover.png",
   },
 
   {
     "class": "scroll_tabs_right_button",
     "settings": ["material_theme_accent_red"],
-    "layer1.texture": "Material Theme/assets/accent-red/arrow_right--hover.png",
+    "layer1.texture": "Material Facebook Theme/assets/accent-red/arrow_right--hover.png",
   },
 
 
   {
     "class": "fold_button_control",
     "settings": ["material_theme_accent_red"],
-    "layer0.texture": "Material Theme/assets/commons/fold_right.png",
-    "layer1.texture": "Material Theme/assets/accent-red/fold_right--hover.png",
+    "layer0.texture": "Material Facebook Theme/assets/commons/fold_right.png",
+    "layer1.texture": "Material Facebook Theme/assets/accent-red/fold_right--hover.png",
   },
 
   {
     "class": "fold_button_control",
     "attributes": ["expanded"],
     "settings": ["material_theme_accent_red"],
-    "layer0.texture": "Material Theme/assets/darker/fold_down.png",
-    "layer1.texture": "Material Theme/assets/accent-red/fold_down--hover.png"
+    "layer0.texture": "Material Facebook Theme/assets/darker/fold_down.png",
+    "layer1.texture": "Material Facebook Theme/assets/accent-red/fold_down--hover.png"
   },
 
   // Panel labels
@@ -851,7 +851,7 @@ NOTE: This rulers must only override the original definitions */
   {
     "class": "show_tabs_dropdown_button",
     "settings": ["material_theme_accent_red"],
-    "layer1.texture": "Material Theme/assets/accent-red/overflow_menu--hover.png",
+    "layer1.texture": "Material Facebook Theme/assets/accent-red/overflow_menu--hover.png",
   },
 
     // Textline input oveflow menu
@@ -859,7 +859,7 @@ NOTE: This rulers must only override the original definitions */
   {
     "class": "dropdown_button_control",
     "settings": ["material_theme_accent_red"],
-    "layer1.texture": "Material Theme/assets/accent-red/overflow_menu--hover.png",
+    "layer1.texture": "Material Facebook Theme/assets/accent-red/overflow_menu--hover.png",
   },
 
   /* Buttons icons settings
@@ -869,7 +869,7 @@ NOTE: This rulers must only override the original definitions */
   {
     "class": "icon_regex",
     "settings": ["material_theme_accent_red"],
-    "layer0.texture": "Material Theme/assets/accent-red/find_regex--hover.png",
+    "layer0.texture": "Material Facebook Theme/assets/accent-red/find_regex--hover.png",
   },
 
     // Preserve case sensitive
@@ -877,14 +877,14 @@ NOTE: This rulers must only override the original definitions */
   {
     "class": "icon_case",
     "settings": ["material_theme_accent_red"],
-    "layer0.texture": "Material Theme/assets/accent-red/find_case--hover.png",
+    "layer0.texture": "Material Facebook Theme/assets/accent-red/find_case--hover.png",
   },
     // Wholeword
 
   {
     "class": "icon_whole_word",
     "settings": ["material_theme_accent_red"],
-    "layer0.texture": "Material Theme/assets/accent-red/find_word--hover.png",
+    "layer0.texture": "Material Facebook Theme/assets/accent-red/find_word--hover.png",
   },
 
     // Wrap
@@ -892,7 +892,7 @@ NOTE: This rulers must only override the original definitions */
   {
     "class": "icon_wrap",
     "settings": ["material_theme_accent_red"],
-    "layer0.texture": "Material Theme/assets/accent-red/find_wrap--hover.png",
+    "layer0.texture": "Material Facebook Theme/assets/accent-red/find_wrap--hover.png",
   },
 
     // In selection
@@ -900,7 +900,7 @@ NOTE: This rulers must only override the original definitions */
   {
     "class": "icon_in_selection",
     "settings": ["material_theme_accent_red"],
-    "layer0.texture": "Material Theme/assets/accent-red/find_inselection--hover.png",
+    "layer0.texture": "Material Facebook Theme/assets/accent-red/find_inselection--hover.png",
   },
 
 
@@ -909,7 +909,7 @@ NOTE: This rulers must only override the original definitions */
   {
     "class": "icon_highlight",
     "settings": ["material_theme_accent_red"],
-    "layer0.texture": "Material Theme/assets/accent-red/find_highlight--hover.png",
+    "layer0.texture": "Material Facebook Theme/assets/accent-red/find_highlight--hover.png",
   },
 
     // Preserve Case
@@ -917,7 +917,7 @@ NOTE: This rulers must only override the original definitions */
   {
     "class": "icon_preserve_case",
     "settings": ["material_theme_accent_red"],
-    "layer0.texture": "Material Theme/assets/accent-red/replace_preserve_case--hover.png",
+    "layer0.texture": "Material Facebook Theme/assets/accent-red/replace_preserve_case--hover.png",
   },
 
     // Show context
@@ -925,7 +925,7 @@ NOTE: This rulers must only override the original definitions */
   {
     "class": "icon_context",
     "settings": ["material_theme_accent_red"],
-    "layer0.texture": "Material Theme/assets/accent-red/find_context--hover.png",
+    "layer0.texture": "Material Facebook Theme/assets/accent-red/find_context--hover.png",
   },
 
     // Use buffer
@@ -933,7 +933,7 @@ NOTE: This rulers must only override the original definitions */
   {
     "class": "icon_use_buffer",
     "settings": ["material_theme_accent_red"],
-    "layer0.texture": "Material Theme/assets/accent-red/use_buffer--hover.png",
+    "layer0.texture": "Material Facebook Theme/assets/accent-red/use_buffer--hover.png",
   },
 
     // Reverse direction
@@ -941,7 +941,7 @@ NOTE: This rulers must only override the original definitions */
   {
     "class": "icon_reverse",
     "settings": ["material_theme_accent_red"],
-    "layer0.texture": "Material Theme/assets/accent-red/find_reverse--hover.png",
+    "layer0.texture": "Material Facebook Theme/assets/accent-red/find_reverse--hover.png",
   },
 
 /* ORANGE ACCENT
@@ -952,7 +952,7 @@ NOTE: This rulers must only override the original definitions */
     "class": "panel_button_control",
     "settings": ["material_theme_accent_orange"],
     "attributes": ["hover"],
-    "layer0.texture": "Material Theme/assets/accent-orange/overflow_menu--hover.png",
+    "layer0.texture": "Material Facebook Theme/assets/accent-orange/overflow_menu--hover.png",
   },
 
   // Tooltip
@@ -987,7 +987,7 @@ NOTE: This rulers must only override the original definitions */
   {
     "class": "tree_row",
     "settings": ["material_theme_accent_orange"],
-    "layer1.texture": "Material Theme/assets/accent-orange/tree_highlight.png",
+    "layer1.texture": "Material Facebook Theme/assets/accent-orange/tree_highlight.png",
   },
 
     // Tabs
@@ -995,7 +995,7 @@ NOTE: This rulers must only override the original definitions */
   {
     "class": "tab_control",
     "settings": ["material_theme_accent_orange"],
-    "layer1.texture": "Material Theme/assets/accent-orange/tab_current.png",
+    "layer1.texture": "Material Facebook Theme/assets/accent-orange/tab_current.png",
   },
 
     // Tabs close button
@@ -1003,8 +1003,8 @@ NOTE: This rulers must only override the original definitions */
   {
     "class": "tab_close_button",
     "settings": ["material_theme_accent_orange"],
-    "layer1.texture": "Material Theme/assets/accent-orange/close_icon--hover.png",
-    "layer3.texture": "Material Theme/assets/accent-orange/dirty_icon--hover.png"
+    "layer1.texture": "Material Facebook Theme/assets/accent-orange/close_icon--hover.png",
+    "layer3.texture": "Material Facebook Theme/assets/accent-orange/dirty_icon--hover.png"
   },
 
     // Opened files
@@ -1012,7 +1012,7 @@ NOTE: This rulers must only override the original definitions */
   {
     "class": "close_button",
     "settings": ["material_theme_accent_orange"],
-    "layer1.texture": "Material Theme/assets/accent-orange/close_icon--hover.png",
+    "layer1.texture": "Material Facebook Theme/assets/accent-orange/close_icon--hover.png",
   },
 
     // Dirty opened files
@@ -1021,7 +1021,7 @@ NOTE: This rulers must only override the original definitions */
     "class": "close_button",
     "attributes": ["dirty"],
     "settings": ["material_theme_accent_orange"],
-    "layer0.texture": "Material Theme/assets/accent-orange/dirty_icon--hover.png",
+    "layer0.texture": "Material Facebook Theme/assets/accent-orange/dirty_icon--hover.png",
   },
 
   {
@@ -1034,8 +1034,8 @@ NOTE: This rulers must only override the original definitions */
   {
     "class": "icon_folder",
     "settings": ["material_theme_accent_orange"],
-    "layer2.texture": "Material Theme/assets/accent-orange/folder--hover.png",
-    "layer3.texture": "Material Theme/assets/accent-orange/folder_opened--hover.png",
+    "layer2.texture": "Material Facebook Theme/assets/accent-orange/folder--hover.png",
+    "layer3.texture": "Material Facebook Theme/assets/accent-orange/folder_opened--hover.png",
   },
 
   {
@@ -1046,19 +1046,19 @@ NOTE: This rulers must only override the original definitions */
     {
       "keyframes":
       [
-        "Material Theme/assets/accent-orange/folder_opened--hover-0.png",
-        "Material Theme/assets/accent-orange/folder_opened--hover-1.png",
-        "Material Theme/assets/accent-orange/folder_opened--hover-2.png",
-        "Material Theme/assets/accent-orange/folder_opened--hover-3.png",
-        "Material Theme/assets/accent-orange/folder_opened--hover-4.png",
-        "Material Theme/assets/accent-orange/folder_opened--hover-5.png",
-        "Material Theme/assets/accent-orange/folder_opened--hover-5.png",
-        "Material Theme/assets/accent-orange/folder_opened--hover-5.png",
-        "Material Theme/assets/accent-orange/folder_opened--hover-6.png",
-        "Material Theme/assets/accent-orange/folder_opened--hover-6.png",
-        "Material Theme/assets/accent-orange/folder_opened--hover-6.png",
-        "Material Theme/assets/accent-orange/folder_opened--hover-6.png",
-        "Material Theme/assets/accent-orange/folder_opened--hover-7.png",
+        "Material Facebook Theme/assets/accent-orange/folder_opened--hover-0.png",
+        "Material Facebook Theme/assets/accent-orange/folder_opened--hover-1.png",
+        "Material Facebook Theme/assets/accent-orange/folder_opened--hover-2.png",
+        "Material Facebook Theme/assets/accent-orange/folder_opened--hover-3.png",
+        "Material Facebook Theme/assets/accent-orange/folder_opened--hover-4.png",
+        "Material Facebook Theme/assets/accent-orange/folder_opened--hover-5.png",
+        "Material Facebook Theme/assets/accent-orange/folder_opened--hover-5.png",
+        "Material Facebook Theme/assets/accent-orange/folder_opened--hover-5.png",
+        "Material Facebook Theme/assets/accent-orange/folder_opened--hover-6.png",
+        "Material Facebook Theme/assets/accent-orange/folder_opened--hover-6.png",
+        "Material Facebook Theme/assets/accent-orange/folder_opened--hover-6.png",
+        "Material Facebook Theme/assets/accent-orange/folder_opened--hover-6.png",
+        "Material Facebook Theme/assets/accent-orange/folder_opened--hover-7.png",
       ],
       "loop": false,
       "frame_time": 0.020,
@@ -1074,14 +1074,14 @@ NOTE: This rulers must only override the original definitions */
     {
       "keyframes":
       [
-        "Material Theme/assets/accent-orange/spinner7.png",
-        "Material Theme/assets/accent-orange/spinner6.png",
-        "Material Theme/assets/accent-orange/spinner5.png",
-        "Material Theme/assets/accent-orange/spinner4.png",
-        "Material Theme/assets/accent-orange/spinner3.png",
-        "Material Theme/assets/accent-orange/spinner2.png",
-        "Material Theme/assets/accent-orange/spinner1.png",
-        "Material Theme/assets/accent-orange/spinner.png",
+        "Material Facebook Theme/assets/accent-orange/spinner7.png",
+        "Material Facebook Theme/assets/accent-orange/spinner6.png",
+        "Material Facebook Theme/assets/accent-orange/spinner5.png",
+        "Material Facebook Theme/assets/accent-orange/spinner4.png",
+        "Material Facebook Theme/assets/accent-orange/spinner3.png",
+        "Material Facebook Theme/assets/accent-orange/spinner2.png",
+        "Material Facebook Theme/assets/accent-orange/spinner1.png",
+        "Material Facebook Theme/assets/accent-orange/spinner.png",
       ],
       "loop": true,
       "frame_time": 0.075,
@@ -1093,29 +1093,29 @@ NOTE: This rulers must only override the original definitions */
   {
     "class": "scroll_tabs_left_button",
     "settings": ["material_theme_accent_orange"],
-    "layer1.texture": "Material Theme/assets/accent-orange/arrow_left--hover.png",
+    "layer1.texture": "Material Facebook Theme/assets/accent-orange/arrow_left--hover.png",
   },
 
   {
     "class": "scroll_tabs_right_button",
     "settings": ["material_theme_accent_orange"],
-    "layer1.texture": "Material Theme/assets/accent-orange/arrow_right--hover.png",
+    "layer1.texture": "Material Facebook Theme/assets/accent-orange/arrow_right--hover.png",
   },
 
 
   {
     "class": "fold_button_control",
     "settings": ["material_theme_accent_orange"],
-    "layer0.texture": "Material Theme/assets/commons/fold_right.png",
-    "layer1.texture": "Material Theme/assets/accent-orange/fold_right--hover.png",
+    "layer0.texture": "Material Facebook Theme/assets/commons/fold_right.png",
+    "layer1.texture": "Material Facebook Theme/assets/accent-orange/fold_right--hover.png",
   },
 
   {
     "class": "fold_button_control",
     "attributes": ["expanded"],
     "settings": ["material_theme_accent_orange"],
-    "layer0.texture": "Material Theme/assets/darker/fold_down.png",
-    "layer1.texture": "Material Theme/assets/accent-orange/fold_down--hover.png"
+    "layer0.texture": "Material Facebook Theme/assets/darker/fold_down.png",
+    "layer1.texture": "Material Facebook Theme/assets/accent-orange/fold_down--hover.png"
   },
 
   // Panel labels
@@ -1164,7 +1164,7 @@ NOTE: This rulers must only override the original definitions */
   {
     "class": "show_tabs_dropdown_button",
     "settings": ["material_theme_accent_orange"],
-    "layer1.texture": "Material Theme/assets/accent-orange/overflow_menu--hover.png",
+    "layer1.texture": "Material Facebook Theme/assets/accent-orange/overflow_menu--hover.png",
   },
 
     // Textline input oveflow menu
@@ -1172,7 +1172,7 @@ NOTE: This rulers must only override the original definitions */
   {
     "class": "dropdown_button_control",
     "settings": ["material_theme_accent_orange"],
-    "layer1.texture": "Material Theme/assets/accent-orange/overflow_menu--hover.png",
+    "layer1.texture": "Material Facebook Theme/assets/accent-orange/overflow_menu--hover.png",
   },
 
   /* Buttons icons settings
@@ -1182,7 +1182,7 @@ NOTE: This rulers must only override the original definitions */
   {
     "class": "icon_regex",
     "settings": ["material_theme_accent_orange"],
-    "layer0.texture": "Material Theme/assets/accent-orange/find_regex--hover.png",
+    "layer0.texture": "Material Facebook Theme/assets/accent-orange/find_regex--hover.png",
   },
 
     // Preserve case sensitive
@@ -1190,14 +1190,14 @@ NOTE: This rulers must only override the original definitions */
   {
     "class": "icon_case",
     "settings": ["material_theme_accent_orange"],
-    "layer0.texture": "Material Theme/assets/accent-orange/find_case--hover.png",
+    "layer0.texture": "Material Facebook Theme/assets/accent-orange/find_case--hover.png",
   },
     // Wholeword
 
   {
     "class": "icon_whole_word",
     "settings": ["material_theme_accent_orange"],
-    "layer0.texture": "Material Theme/assets/accent-orange/find_word--hover.png",
+    "layer0.texture": "Material Facebook Theme/assets/accent-orange/find_word--hover.png",
   },
 
     // Wrap
@@ -1205,7 +1205,7 @@ NOTE: This rulers must only override the original definitions */
   {
     "class": "icon_wrap",
     "settings": ["material_theme_accent_orange"],
-    "layer0.texture": "Material Theme/assets/accent-orange/find_wrap--hover.png",
+    "layer0.texture": "Material Facebook Theme/assets/accent-orange/find_wrap--hover.png",
   },
 
     // In selection
@@ -1213,7 +1213,7 @@ NOTE: This rulers must only override the original definitions */
   {
     "class": "icon_in_selection",
     "settings": ["material_theme_accent_orange"],
-    "layer0.texture": "Material Theme/assets/accent-orange/find_inselection--hover.png",
+    "layer0.texture": "Material Facebook Theme/assets/accent-orange/find_inselection--hover.png",
   },
 
 
@@ -1222,7 +1222,7 @@ NOTE: This rulers must only override the original definitions */
   {
     "class": "icon_highlight",
     "settings": ["material_theme_accent_orange"],
-    "layer0.texture": "Material Theme/assets/accent-orange/find_highlight--hover.png",
+    "layer0.texture": "Material Facebook Theme/assets/accent-orange/find_highlight--hover.png",
   },
 
     // Preserve Case
@@ -1230,7 +1230,7 @@ NOTE: This rulers must only override the original definitions */
   {
     "class": "icon_preserve_case",
     "settings": ["material_theme_accent_orange"],
-    "layer0.texture": "Material Theme/assets/accent-orange/replace_preserve_case--hover.png",
+    "layer0.texture": "Material Facebook Theme/assets/accent-orange/replace_preserve_case--hover.png",
   },
 
     // Show context
@@ -1238,7 +1238,7 @@ NOTE: This rulers must only override the original definitions */
   {
     "class": "icon_context",
     "settings": ["material_theme_accent_orange"],
-    "layer0.texture": "Material Theme/assets/accent-orange/find_context--hover.png",
+    "layer0.texture": "Material Facebook Theme/assets/accent-orange/find_context--hover.png",
   },
 
     // Use buffer
@@ -1246,7 +1246,7 @@ NOTE: This rulers must only override the original definitions */
   {
     "class": "icon_use_buffer",
     "settings": ["material_theme_accent_orange"],
-    "layer0.texture": "Material Theme/assets/accent-orange/use_buffer--hover.png",
+    "layer0.texture": "Material Facebook Theme/assets/accent-orange/use_buffer--hover.png",
   },
 
     // Reverse direction
@@ -1254,7 +1254,7 @@ NOTE: This rulers must only override the original definitions */
   {
     "class": "icon_reverse",
     "settings": ["material_theme_accent_orange"],
-    "layer0.texture": "Material Theme/assets/accent-orange/find_reverse--hover.png",
+    "layer0.texture": "Material Facebook Theme/assets/accent-orange/find_reverse--hover.png",
   },
 
 /* YELLOW ACCENT
@@ -1265,7 +1265,7 @@ NOTE: This rulers must only override the original definitions */
     "class": "panel_button_control",
     "settings": ["material_theme_accent_yellow"],
     "attributes": ["hover"],
-    "layer0.texture": "Material Theme/assets/accent-yellow/overflow_menu--hover.png",
+    "layer0.texture": "Material Facebook Theme/assets/accent-yellow/overflow_menu--hover.png",
   },
 
   // Tooltip
@@ -1300,7 +1300,7 @@ NOTE: This rulers must only override the original definitions */
   {
     "class": "tree_row",
     "settings": ["material_theme_accent_yellow"],
-    "layer1.texture": "Material Theme/assets/accent-yellow/tree_highlight.png",
+    "layer1.texture": "Material Facebook Theme/assets/accent-yellow/tree_highlight.png",
   },
 
     // Tabs
@@ -1308,7 +1308,7 @@ NOTE: This rulers must only override the original definitions */
   {
     "class": "tab_control",
     "settings": ["material_theme_accent_yellow"],
-    "layer1.texture": "Material Theme/assets/accent-yellow/tab_current.png",
+    "layer1.texture": "Material Facebook Theme/assets/accent-yellow/tab_current.png",
   },
 
     // Tabs close button
@@ -1316,8 +1316,8 @@ NOTE: This rulers must only override the original definitions */
   {
     "class": "tab_close_button",
     "settings": ["material_theme_accent_yellow"],
-    "layer1.texture": "Material Theme/assets/accent-yellow/close_icon--hover.png",
-    "layer3.texture": "Material Theme/assets/accent-yellow/dirty_icon--hover.png"
+    "layer1.texture": "Material Facebook Theme/assets/accent-yellow/close_icon--hover.png",
+    "layer3.texture": "Material Facebook Theme/assets/accent-yellow/dirty_icon--hover.png"
   },
 
     // Opened files
@@ -1325,7 +1325,7 @@ NOTE: This rulers must only override the original definitions */
   {
     "class": "close_button",
     "settings": ["material_theme_accent_yellow"],
-    "layer1.texture": "Material Theme/assets/accent-yellow/close_icon--hover.png",
+    "layer1.texture": "Material Facebook Theme/assets/accent-yellow/close_icon--hover.png",
   },
 
     // Dirty opened files
@@ -1334,7 +1334,7 @@ NOTE: This rulers must only override the original definitions */
     "class": "close_button",
     "attributes": ["dirty"],
     "settings": ["material_theme_accent_yellow"],
-    "layer0.texture": "Material Theme/assets/accent-yellow/dirty_icon--hover.png",
+    "layer0.texture": "Material Facebook Theme/assets/accent-yellow/dirty_icon--hover.png",
   },
 
   {
@@ -1347,8 +1347,8 @@ NOTE: This rulers must only override the original definitions */
   {
     "class": "icon_folder",
     "settings": ["material_theme_accent_yellow"],
-    "layer2.texture": "Material Theme/assets/accent-yellow/folder--hover.png",
-    "layer3.texture": "Material Theme/assets/accent-yellow/folder_opened--hover.png",
+    "layer2.texture": "Material Facebook Theme/assets/accent-yellow/folder--hover.png",
+    "layer3.texture": "Material Facebook Theme/assets/accent-yellow/folder_opened--hover.png",
   },
 
   {
@@ -1359,19 +1359,19 @@ NOTE: This rulers must only override the original definitions */
     {
       "keyframes":
       [
-        "Material Theme/assets/accent-yellow/folder_opened--hover-0.png",
-        "Material Theme/assets/accent-yellow/folder_opened--hover-1.png",
-        "Material Theme/assets/accent-yellow/folder_opened--hover-2.png",
-        "Material Theme/assets/accent-yellow/folder_opened--hover-3.png",
-        "Material Theme/assets/accent-yellow/folder_opened--hover-4.png",
-        "Material Theme/assets/accent-yellow/folder_opened--hover-5.png",
-        "Material Theme/assets/accent-yellow/folder_opened--hover-5.png",
-        "Material Theme/assets/accent-yellow/folder_opened--hover-5.png",
-        "Material Theme/assets/accent-yellow/folder_opened--hover-6.png",
-        "Material Theme/assets/accent-yellow/folder_opened--hover-6.png",
-        "Material Theme/assets/accent-yellow/folder_opened--hover-6.png",
-        "Material Theme/assets/accent-yellow/folder_opened--hover-6.png",
-        "Material Theme/assets/accent-yellow/folder_opened--hover-7.png",
+        "Material Facebook Theme/assets/accent-yellow/folder_opened--hover-0.png",
+        "Material Facebook Theme/assets/accent-yellow/folder_opened--hover-1.png",
+        "Material Facebook Theme/assets/accent-yellow/folder_opened--hover-2.png",
+        "Material Facebook Theme/assets/accent-yellow/folder_opened--hover-3.png",
+        "Material Facebook Theme/assets/accent-yellow/folder_opened--hover-4.png",
+        "Material Facebook Theme/assets/accent-yellow/folder_opened--hover-5.png",
+        "Material Facebook Theme/assets/accent-yellow/folder_opened--hover-5.png",
+        "Material Facebook Theme/assets/accent-yellow/folder_opened--hover-5.png",
+        "Material Facebook Theme/assets/accent-yellow/folder_opened--hover-6.png",
+        "Material Facebook Theme/assets/accent-yellow/folder_opened--hover-6.png",
+        "Material Facebook Theme/assets/accent-yellow/folder_opened--hover-6.png",
+        "Material Facebook Theme/assets/accent-yellow/folder_opened--hover-6.png",
+        "Material Facebook Theme/assets/accent-yellow/folder_opened--hover-7.png",
       ],
       "loop": false,
       "frame_time": 0.020,
@@ -1387,14 +1387,14 @@ NOTE: This rulers must only override the original definitions */
     {
       "keyframes":
       [
-        "Material Theme/assets/accent-yellow/spinner7.png",
-        "Material Theme/assets/accent-yellow/spinner6.png",
-        "Material Theme/assets/accent-yellow/spinner5.png",
-        "Material Theme/assets/accent-yellow/spinner4.png",
-        "Material Theme/assets/accent-yellow/spinner3.png",
-        "Material Theme/assets/accent-yellow/spinner2.png",
-        "Material Theme/assets/accent-yellow/spinner1.png",
-        "Material Theme/assets/accent-yellow/spinner.png",
+        "Material Facebook Theme/assets/accent-yellow/spinner7.png",
+        "Material Facebook Theme/assets/accent-yellow/spinner6.png",
+        "Material Facebook Theme/assets/accent-yellow/spinner5.png",
+        "Material Facebook Theme/assets/accent-yellow/spinner4.png",
+        "Material Facebook Theme/assets/accent-yellow/spinner3.png",
+        "Material Facebook Theme/assets/accent-yellow/spinner2.png",
+        "Material Facebook Theme/assets/accent-yellow/spinner1.png",
+        "Material Facebook Theme/assets/accent-yellow/spinner.png",
       ],
       "loop": true,
       "frame_time": 0.075,
@@ -1406,29 +1406,29 @@ NOTE: This rulers must only override the original definitions */
   {
     "class": "scroll_tabs_left_button",
     "settings": ["material_theme_accent_yellow"],
-    "layer1.texture": "Material Theme/assets/accent-yellow/arrow_left--hover.png",
+    "layer1.texture": "Material Facebook Theme/assets/accent-yellow/arrow_left--hover.png",
   },
 
   {
     "class": "scroll_tabs_right_button",
     "settings": ["material_theme_accent_yellow"],
-    "layer1.texture": "Material Theme/assets/accent-yellow/arrow_right--hover.png",
+    "layer1.texture": "Material Facebook Theme/assets/accent-yellow/arrow_right--hover.png",
   },
 
 
   {
     "class": "fold_button_control",
     "settings": ["material_theme_accent_yellow"],
-    "layer0.texture": "Material Theme/assets/commons/fold_right.png",
-    "layer1.texture": "Material Theme/assets/accent-yellow/fold_right--hover.png",
+    "layer0.texture": "Material Facebook Theme/assets/commons/fold_right.png",
+    "layer1.texture": "Material Facebook Theme/assets/accent-yellow/fold_right--hover.png",
   },
 
   {
     "class": "fold_button_control",
     "attributes": ["expanded"],
     "settings": ["material_theme_accent_yellow"],
-    "layer0.texture": "Material Theme/assets/darker/fold_down.png",
-    "layer1.texture": "Material Theme/assets/accent-yellow/fold_down--hover.png"
+    "layer0.texture": "Material Facebook Theme/assets/darker/fold_down.png",
+    "layer1.texture": "Material Facebook Theme/assets/accent-yellow/fold_down--hover.png"
   },
 
   // Panel labels
@@ -1477,7 +1477,7 @@ NOTE: This rulers must only override the original definitions */
   {
     "class": "show_tabs_dropdown_button",
     "settings": ["material_theme_accent_yellow"],
-    "layer1.texture": "Material Theme/assets/accent-yellow/overflow_menu--hover.png",
+    "layer1.texture": "Material Facebook Theme/assets/accent-yellow/overflow_menu--hover.png",
   },
 
     // Textline input oveflow menu
@@ -1485,7 +1485,7 @@ NOTE: This rulers must only override the original definitions */
   {
     "class": "dropdown_button_control",
     "settings": ["material_theme_accent_yellow"],
-    "layer1.texture": "Material Theme/assets/accent-yellow/overflow_menu--hover.png",
+    "layer1.texture": "Material Facebook Theme/assets/accent-yellow/overflow_menu--hover.png",
   },
 
   /* Buttons icons settings
@@ -1495,7 +1495,7 @@ NOTE: This rulers must only override the original definitions */
   {
     "class": "icon_regex",
     "settings": ["material_theme_accent_yellow"],
-    "layer0.texture": "Material Theme/assets/accent-yellow/find_regex--hover.png",
+    "layer0.texture": "Material Facebook Theme/assets/accent-yellow/find_regex--hover.png",
   },
 
     // Preserve case sensitive
@@ -1503,14 +1503,14 @@ NOTE: This rulers must only override the original definitions */
   {
     "class": "icon_case",
     "settings": ["material_theme_accent_yellow"],
-    "layer0.texture": "Material Theme/assets/accent-yellow/find_case--hover.png",
+    "layer0.texture": "Material Facebook Theme/assets/accent-yellow/find_case--hover.png",
   },
     // Wholeword
 
   {
     "class": "icon_whole_word",
     "settings": ["material_theme_accent_yellow"],
-    "layer0.texture": "Material Theme/assets/accent-yellow/find_word--hover.png",
+    "layer0.texture": "Material Facebook Theme/assets/accent-yellow/find_word--hover.png",
   },
 
     // Wrap
@@ -1518,7 +1518,7 @@ NOTE: This rulers must only override the original definitions */
   {
     "class": "icon_wrap",
     "settings": ["material_theme_accent_yellow"],
-    "layer0.texture": "Material Theme/assets/accent-yellow/find_wrap--hover.png",
+    "layer0.texture": "Material Facebook Theme/assets/accent-yellow/find_wrap--hover.png",
   },
 
     // In selection
@@ -1526,7 +1526,7 @@ NOTE: This rulers must only override the original definitions */
   {
     "class": "icon_in_selection",
     "settings": ["material_theme_accent_yellow"],
-    "layer0.texture": "Material Theme/assets/accent-yellow/find_inselection--hover.png",
+    "layer0.texture": "Material Facebook Theme/assets/accent-yellow/find_inselection--hover.png",
   },
 
 
@@ -1535,7 +1535,7 @@ NOTE: This rulers must only override the original definitions */
   {
     "class": "icon_highlight",
     "settings": ["material_theme_accent_yellow"],
-    "layer0.texture": "Material Theme/assets/accent-yellow/find_highlight--hover.png",
+    "layer0.texture": "Material Facebook Theme/assets/accent-yellow/find_highlight--hover.png",
   },
 
     // Preserve Case
@@ -1543,7 +1543,7 @@ NOTE: This rulers must only override the original definitions */
   {
     "class": "icon_preserve_case",
     "settings": ["material_theme_accent_yellow"],
-    "layer0.texture": "Material Theme/assets/accent-yellow/replace_preserve_case--hover.png",
+    "layer0.texture": "Material Facebook Theme/assets/accent-yellow/replace_preserve_case--hover.png",
   },
 
     // Show context
@@ -1551,7 +1551,7 @@ NOTE: This rulers must only override the original definitions */
   {
     "class": "icon_context",
     "settings": ["material_theme_accent_yellow"],
-    "layer0.texture": "Material Theme/assets/accent-yellow/find_context--hover.png",
+    "layer0.texture": "Material Facebook Theme/assets/accent-yellow/find_context--hover.png",
   },
 
     // Use buffer
@@ -1559,7 +1559,7 @@ NOTE: This rulers must only override the original definitions */
   {
     "class": "icon_use_buffer",
     "settings": ["material_theme_accent_yellow"],
-    "layer0.texture": "Material Theme/assets/accent-yellow/use_buffer--hover.png",
+    "layer0.texture": "Material Facebook Theme/assets/accent-yellow/use_buffer--hover.png",
   },
 
     // Reverse direction
@@ -1567,7 +1567,7 @@ NOTE: This rulers must only override the original definitions */
   {
     "class": "icon_reverse",
     "settings": ["material_theme_accent_yellow"],
-    "layer0.texture": "Material Theme/assets/accent-yellow/find_reverse--hover.png",
+    "layer0.texture": "Material Facebook Theme/assets/accent-yellow/find_reverse--hover.png",
   },
 
 /* INDIGO ACCENT
@@ -1577,7 +1577,7 @@ NOTE: This rulers must only override the original definitions */
     "class": "panel_button_control",
     "settings": ["material_theme_accent_indigo"],
     "attributes": ["hover"],
-    "layer0.texture": "Material Theme/assets/accent-indigo/overflow_menu--hover.png",
+    "layer0.texture": "Material Facebook Theme/assets/accent-indigo/overflow_menu--hover.png",
   },
 
   // Tooltip
@@ -1612,7 +1612,7 @@ NOTE: This rulers must only override the original definitions */
   {
     "class": "tree_row",
     "settings": ["material_theme_accent_indigo"],
-    "layer1.texture": "Material Theme/assets/accent-indigo/tree_highlight.png",
+    "layer1.texture": "Material Facebook Theme/assets/accent-indigo/tree_highlight.png",
   },
 
     // Tabs
@@ -1620,7 +1620,7 @@ NOTE: This rulers must only override the original definitions */
   {
     "class": "tab_control",
     "settings": ["material_theme_accent_indigo"],
-    "layer1.texture": "Material Theme/assets/accent-indigo/tab_current.png",
+    "layer1.texture": "Material Facebook Theme/assets/accent-indigo/tab_current.png",
   },
 
     // Tabs close button
@@ -1628,8 +1628,8 @@ NOTE: This rulers must only override the original definitions */
   {
     "class": "tab_close_button",
     "settings": ["material_theme_accent_indigo"],
-    "layer1.texture": "Material Theme/assets/accent-indigo/close_icon--hover.png",
-    "layer3.texture": "Material Theme/assets/accent-indigo/dirty_icon--hover.png"
+    "layer1.texture": "Material Facebook Theme/assets/accent-indigo/close_icon--hover.png",
+    "layer3.texture": "Material Facebook Theme/assets/accent-indigo/dirty_icon--hover.png"
   },
 
     // Opened files
@@ -1637,7 +1637,7 @@ NOTE: This rulers must only override the original definitions */
   {
     "class": "close_button",
     "settings": ["material_theme_accent_indigo"],
-    "layer1.texture": "Material Theme/assets/accent-indigo/close_icon--hover.png",
+    "layer1.texture": "Material Facebook Theme/assets/accent-indigo/close_icon--hover.png",
   },
 
     // Dirty opened files
@@ -1646,7 +1646,7 @@ NOTE: This rulers must only override the original definitions */
     "class": "close_button",
     "attributes": ["dirty"],
     "settings": ["material_theme_accent_indigo"],
-    "layer0.texture": "Material Theme/assets/accent-indigo/dirty_icon--hover.png",
+    "layer0.texture": "Material Facebook Theme/assets/accent-indigo/dirty_icon--hover.png",
   },
 
   {
@@ -1659,8 +1659,8 @@ NOTE: This rulers must only override the original definitions */
   {
     "class": "icon_folder",
     "settings": ["material_theme_accent_indigo"],
-    "layer2.texture": "Material Theme/assets/accent-indigo/folder--hover.png",
-    "layer3.texture": "Material Theme/assets/accent-indigo/folder_opened--hover.png",
+    "layer2.texture": "Material Facebook Theme/assets/accent-indigo/folder--hover.png",
+    "layer3.texture": "Material Facebook Theme/assets/accent-indigo/folder_opened--hover.png",
   },
 
   {
@@ -1671,19 +1671,19 @@ NOTE: This rulers must only override the original definitions */
     {
       "keyframes":
       [
-        "Material Theme/assets/accent-indigo/folder_opened--hover-0.png",
-        "Material Theme/assets/accent-indigo/folder_opened--hover-1.png",
-        "Material Theme/assets/accent-indigo/folder_opened--hover-2.png",
-        "Material Theme/assets/accent-indigo/folder_opened--hover-3.png",
-        "Material Theme/assets/accent-indigo/folder_opened--hover-4.png",
-        "Material Theme/assets/accent-indigo/folder_opened--hover-5.png",
-        "Material Theme/assets/accent-indigo/folder_opened--hover-5.png",
-        "Material Theme/assets/accent-indigo/folder_opened--hover-5.png",
-        "Material Theme/assets/accent-indigo/folder_opened--hover-6.png",
-        "Material Theme/assets/accent-indigo/folder_opened--hover-6.png",
-        "Material Theme/assets/accent-indigo/folder_opened--hover-6.png",
-        "Material Theme/assets/accent-indigo/folder_opened--hover-6.png",
-        "Material Theme/assets/accent-indigo/folder_opened--hover-7.png",
+        "Material Facebook Theme/assets/accent-indigo/folder_opened--hover-0.png",
+        "Material Facebook Theme/assets/accent-indigo/folder_opened--hover-1.png",
+        "Material Facebook Theme/assets/accent-indigo/folder_opened--hover-2.png",
+        "Material Facebook Theme/assets/accent-indigo/folder_opened--hover-3.png",
+        "Material Facebook Theme/assets/accent-indigo/folder_opened--hover-4.png",
+        "Material Facebook Theme/assets/accent-indigo/folder_opened--hover-5.png",
+        "Material Facebook Theme/assets/accent-indigo/folder_opened--hover-5.png",
+        "Material Facebook Theme/assets/accent-indigo/folder_opened--hover-5.png",
+        "Material Facebook Theme/assets/accent-indigo/folder_opened--hover-6.png",
+        "Material Facebook Theme/assets/accent-indigo/folder_opened--hover-6.png",
+        "Material Facebook Theme/assets/accent-indigo/folder_opened--hover-6.png",
+        "Material Facebook Theme/assets/accent-indigo/folder_opened--hover-6.png",
+        "Material Facebook Theme/assets/accent-indigo/folder_opened--hover-7.png",
       ],
       "loop": false,
       "frame_time": 0.020,
@@ -1699,14 +1699,14 @@ NOTE: This rulers must only override the original definitions */
     {
       "keyframes":
       [
-        "Material Theme/assets/accent-indigo/spinner7.png",
-        "Material Theme/assets/accent-indigo/spinner6.png",
-        "Material Theme/assets/accent-indigo/spinner5.png",
-        "Material Theme/assets/accent-indigo/spinner4.png",
-        "Material Theme/assets/accent-indigo/spinner3.png",
-        "Material Theme/assets/accent-indigo/spinner2.png",
-        "Material Theme/assets/accent-indigo/spinner1.png",
-        "Material Theme/assets/accent-indigo/spinner.png",
+        "Material Facebook Theme/assets/accent-indigo/spinner7.png",
+        "Material Facebook Theme/assets/accent-indigo/spinner6.png",
+        "Material Facebook Theme/assets/accent-indigo/spinner5.png",
+        "Material Facebook Theme/assets/accent-indigo/spinner4.png",
+        "Material Facebook Theme/assets/accent-indigo/spinner3.png",
+        "Material Facebook Theme/assets/accent-indigo/spinner2.png",
+        "Material Facebook Theme/assets/accent-indigo/spinner1.png",
+        "Material Facebook Theme/assets/accent-indigo/spinner.png",
       ],
       "loop": true,
       "frame_time": 0.075,
@@ -1718,29 +1718,29 @@ NOTE: This rulers must only override the original definitions */
   {
     "class": "scroll_tabs_left_button",
     "settings": ["material_theme_accent_indigo"],
-    "layer1.texture": "Material Theme/assets/accent-indigo/arrow_left--hover.png",
+    "layer1.texture": "Material Facebook Theme/assets/accent-indigo/arrow_left--hover.png",
   },
 
   {
     "class": "scroll_tabs_right_button",
     "settings": ["material_theme_accent_indigo"],
-    "layer1.texture": "Material Theme/assets/accent-indigo/arrow_right--hover.png",
+    "layer1.texture": "Material Facebook Theme/assets/accent-indigo/arrow_right--hover.png",
   },
 
 
   {
     "class": "fold_button_control",
     "settings": ["material_theme_accent_indigo"],
-    "layer0.texture": "Material Theme/assets/commons/fold_right.png",
-    "layer1.texture": "Material Theme/assets/accent-indigo/fold_right--hover.png",
+    "layer0.texture": "Material Facebook Theme/assets/commons/fold_right.png",
+    "layer1.texture": "Material Facebook Theme/assets/accent-indigo/fold_right--hover.png",
   },
 
   {
     "class": "fold_button_control",
     "attributes": ["expanded"],
     "settings": ["material_theme_accent_indigo"],
-    "layer0.texture": "Material Theme/assets/darker/fold_down.png",
-    "layer1.texture": "Material Theme/assets/accent-indigo/fold_down--hover.png"
+    "layer0.texture": "Material Facebook Theme/assets/darker/fold_down.png",
+    "layer1.texture": "Material Facebook Theme/assets/accent-indigo/fold_down--hover.png"
   },
 
   // Panel labels
@@ -1789,7 +1789,7 @@ NOTE: This rulers must only override the original definitions */
   {
     "class": "show_tabs_dropdown_button",
     "settings": ["material_theme_accent_indigo"],
-    "layer1.texture": "Material Theme/assets/accent-indigo/overflow_menu--hover.png",
+    "layer1.texture": "Material Facebook Theme/assets/accent-indigo/overflow_menu--hover.png",
   },
 
     // Textline input oveflow menu
@@ -1797,7 +1797,7 @@ NOTE: This rulers must only override the original definitions */
   {
     "class": "dropdown_button_control",
     "settings": ["material_theme_accent_indigo"],
-    "layer1.texture": "Material Theme/assets/accent-indigo/overflow_menu--hover.png",
+    "layer1.texture": "Material Facebook Theme/assets/accent-indigo/overflow_menu--hover.png",
   },
 
   /* Buttons icons settings
@@ -1807,7 +1807,7 @@ NOTE: This rulers must only override the original definitions */
   {
     "class": "icon_regex",
     "settings": ["material_theme_accent_indigo"],
-    "layer0.texture": "Material Theme/assets/accent-indigo/find_regex--hover.png",
+    "layer0.texture": "Material Facebook Theme/assets/accent-indigo/find_regex--hover.png",
   },
 
     // Preserve case sensitive
@@ -1815,14 +1815,14 @@ NOTE: This rulers must only override the original definitions */
   {
     "class": "icon_case",
     "settings": ["material_theme_accent_indigo"],
-    "layer0.texture": "Material Theme/assets/accent-indigo/find_case--hover.png",
+    "layer0.texture": "Material Facebook Theme/assets/accent-indigo/find_case--hover.png",
   },
     // Wholeword
 
   {
     "class": "icon_whole_word",
     "settings": ["material_theme_accent_indigo"],
-    "layer0.texture": "Material Theme/assets/accent-indigo/find_word--hover.png",
+    "layer0.texture": "Material Facebook Theme/assets/accent-indigo/find_word--hover.png",
   },
 
     // Wrap
@@ -1830,7 +1830,7 @@ NOTE: This rulers must only override the original definitions */
   {
     "class": "icon_wrap",
     "settings": ["material_theme_accent_indigo"],
-    "layer0.texture": "Material Theme/assets/accent-indigo/find_wrap--hover.png",
+    "layer0.texture": "Material Facebook Theme/assets/accent-indigo/find_wrap--hover.png",
   },
 
     // In selection
@@ -1838,7 +1838,7 @@ NOTE: This rulers must only override the original definitions */
   {
     "class": "icon_in_selection",
     "settings": ["material_theme_accent_indigo"],
-    "layer0.texture": "Material Theme/assets/accent-indigo/find_inselection--hover.png",
+    "layer0.texture": "Material Facebook Theme/assets/accent-indigo/find_inselection--hover.png",
   },
 
 
@@ -1847,7 +1847,7 @@ NOTE: This rulers must only override the original definitions */
   {
     "class": "icon_highlight",
     "settings": ["material_theme_accent_indigo"],
-    "layer0.texture": "Material Theme/assets/accent-indigo/find_highlight--hover.png",
+    "layer0.texture": "Material Facebook Theme/assets/accent-indigo/find_highlight--hover.png",
   },
 
     // Preserve Case
@@ -1855,7 +1855,7 @@ NOTE: This rulers must only override the original definitions */
   {
     "class": "icon_preserve_case",
     "settings": ["material_theme_accent_indigo"],
-    "layer0.texture": "Material Theme/assets/accent-indigo/replace_preserve_case--hover.png",
+    "layer0.texture": "Material Facebook Theme/assets/accent-indigo/replace_preserve_case--hover.png",
   },
 
     // Show context
@@ -1863,7 +1863,7 @@ NOTE: This rulers must only override the original definitions */
   {
     "class": "icon_context",
     "settings": ["material_theme_accent_indigo"],
-    "layer0.texture": "Material Theme/assets/accent-indigo/find_context--hover.png",
+    "layer0.texture": "Material Facebook Theme/assets/accent-indigo/find_context--hover.png",
   },
 
     // Use buffer
@@ -1871,7 +1871,7 @@ NOTE: This rulers must only override the original definitions */
   {
     "class": "icon_use_buffer",
     "settings": ["material_theme_accent_indigo"],
-    "layer0.texture": "Material Theme/assets/accent-indigo/use_buffer--hover.png",
+    "layer0.texture": "Material Facebook Theme/assets/accent-indigo/use_buffer--hover.png",
   },
 
     // Reverse direction
@@ -1879,5 +1879,5 @@ NOTE: This rulers must only override the original definitions */
   {
     "class": "icon_reverse",
     "settings": ["material_theme_accent_indigo"],
-    "layer0.texture": "Material Theme/assets/accent-indigo/find_reverse--hover.png",
+    "layer0.texture": "Material Facebook Theme/assets/accent-indigo/find_reverse--hover.png",
   },

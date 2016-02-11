@@ -40,7 +40,7 @@ gulp.task('themeBuilder', function () {
   .pipe(rename({ extname: ".sublime-theme" }) )
   .pipe(gulp.dest('./'))
   .pipe(notify({
-    title: "Material Theme",
+    title: "Material Facebook Theme",
     message: "Theme compiled",
     icon: path.join( __dirname, notifyLogo )
   }))

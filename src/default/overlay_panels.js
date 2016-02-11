@@ -6,10 +6,10 @@
   // Command Panel
    {
       "class": "overlay_control",
-      "layer0.texture": "Material Theme/assets/default/overlay-bg.png",
+      "layer0.texture": "Material Facebook Theme/assets/default/overlay-bg.png",
       "layer0.inner_margin": [24, 4, 24, 33],
       "layer0.opacity": 1.0,
-      "layer1.texture": "Material Theme/assets/commons/quick-panel-background.png",
+      "layer1.texture": "Material Facebook Theme/assets/commons/quick-panel-background.png",
       "layer1.inner_margin": [16, 0, 16, 25],
       "layer1.opacity": 1.0,
       "content_margin": [13, 13, 13, 33]
@@ -19,7 +19,7 @@
 
   {
     "class": "mini_quick_panel_row",
-    "layer0.tint": [38, 50, 56, 0],
+    "layer0.tint": [37, 43, 57, 0],
     "layer0.inner_margin": [2, 2, 2, 2],
     "layer0.opacity": 1.0
   },
@@ -37,7 +37,7 @@
   {
     "class": "quick_panel",
     "row_padding": [32, 12],
-    "layer0.tint": [38, 50, 56],
+    "layer0.tint": [37, 43, 57],
     "layer0.opacity": 1.0
   },
 
@@ -45,7 +45,7 @@
 
   {
     "class": "quick_panel_row",
-    "layer0.tint": [38, 50, 56, 0],
+    "layer0.tint": [37, 43, 57, 0],
     "layer0.opacity": 1.0
   },
 
@@ -54,7 +54,7 @@
   {
     "class": "quick_panel_row",
     "parents": [{"class": "overlay_control"}],
-    "layer0.tint": [38, 50, 56, 0],
+    "layer0.tint": [37, 43, 57, 0],
     "layer0.opacity": 1.0
   },
 
@@ -64,7 +64,7 @@
     "class": "quick_panel",
     "parents": [{"class": "overlay_control"}],
     "row_padding": [32, 12],
-    "layer0.tint": [38, 50, 56, 0],
+    "layer0.tint": [37, 43, 57, 0],
     "layer0.opacity": 1.0
   },
 

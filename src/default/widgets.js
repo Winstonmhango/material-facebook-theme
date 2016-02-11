@@ -7,10 +7,10 @@
   // Status bar panel
   {
     "class": "panel_control",
-    "layer0.tint": [38, 50, 56],
+    "layer0.tint": [37, 43, 57],
     "layer0.inner_margin": [2, 2, 2, 2],
     "layer0.opacity": 1.0,
-    "layer1.tint": [38, 50, 56],
+    "layer1.tint": [37, 43, 57],
     "layer1.inner_margin": [2, 2, 2, 2],
     "layer1.opacity": 1.0,
     "content_margin": [6, 14, 6, 8],
@@ -20,9 +20,9 @@
 
   {
     "class": "panel_close_button",
-    "layer0.texture": "Material Theme/assets/default/close_icon.png",
+    "layer0.texture": "Material Facebook Theme/assets/default/close_icon.png",
     "layer0.opacity": 0.6,
-    "layer1.texture": "Material Theme/assets/commons/close_icon--hover.png",
+    "layer1.texture": "Material Facebook Theme/assets/commons/close_icon--hover.png",
     "layer1.opacity": 0.0,
     "content_margin": [0, 0] // 8,8 to show
   },
@@ -38,7 +38,7 @@
 
   {
     "class": "text_line_control",
-    "layer0.texture": "Material Theme/assets/default/input_field_border.png",
+    "layer0.texture": "Material Facebook Theme/assets/default/input_field_border.png",
     "layer0.opacity": 1.0,
     "layer0.inner_margin": [20, 5, 20, 5],
     "tint_index": 1,
@@ -51,7 +51,7 @@
   {
     "class": "text_line_control",
     "parents": [{"class": "overlay_control"}],
-    "layer0.texture": "Material Theme/assets/default/input_field_border--short.png",
+    "layer0.texture": "Material Facebook Theme/assets/default/input_field_border--short.png",
     "layer0.opacity": 1.0,
     "layer0.inner_margin": [32, 0, 32, 2],
     "layer0.draw_center": true,
@@ -64,10 +64,10 @@
   {
     "class": "dropdown_button_control",
     "content_margin": [12, 12],
-    "layer0.texture": "Material Theme/assets/default/overflow_menu.png",
+    "layer0.texture": "Material Facebook Theme/assets/default/overflow_menu.png",
     "layer0.opacity": 1.0,
     "layer0.inner_margin": [0, 0],
-    "layer1.texture": "Material Theme/assets/commons/overflow_menu--hover.png",
+    "layer1.texture": "Material Facebook Theme/assets/commons/overflow_menu--hover.png",
     "layer1.opacity": 0.0,
     "layer1.inner_margin": [0, 0],
   },
